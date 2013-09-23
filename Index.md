@@ -9,9 +9,9 @@ eine Themenvorgabe wird bewusst vermieden, fachfremde Teilnehmer und Vorträge s
 Organisatoren stellen lediglich Termin und Räumlichkeiten zur Verfügung, um alles andere kümmern sich
 die Teilnehmer selbst.
 
-> Das nächste **BarCamp RheinMain findet 23./24.11.2013 auf dem Campus der Hochschule Dieburg** statt.
-> Weitere Informationen und die Anmeldung findet Ihr bald hier.
-
 Auch eine Themenvorgabe wird bewusst vermieden, fachfremde Teilnehmer und Vorträge sind sogar erwünscht.
 Die Organisatoren stellen lediglich Termin und Räumlichkeiten zur Verfügung, um alles andere kümmern
 sich die Teilnehmer selbst.
+
+> Das nächste **BarCamp RheinMain findet am 23./24.11.2013 auf dem Campus der Hochschule Dieburg** statt.
+> Weitere Informationen und die Anmeldung findet Ihr bald hier.
