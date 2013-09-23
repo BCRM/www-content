@@ -36,6 +36,6 @@ Folgende Seitenattribute kannst Du verwenden:
 
 Es gibt einige spezielle Inhalte, die nicht direkt als Seiten auf der Website angezeigt werden:
 
- * Im Ordner [`Email`](/Email) finden sich die Vorlagen für die System-Emails, die von der Website verschickt werden.
- * Die Datei [`Sponsoren/Index.md`](/Sponsoren/Index.md) wird dazu verwendet den Footer mit den Sponsoren-Logos zu erzeugen.
- * Die Datei [`Slider/Index.md`](/Slider/Index.md) wird dazu verwendet den Bilder-Slider auf der Startseite zu erzeugen.
+ * Im Ordner [Email](/Email) finden sich die Vorlagen für die System-Emails, die von der Website verschickt werden.
+ * Die Datei [Sponsoren/Index.md](/Sponsoren/Index.md) wird dazu verwendet den Footer mit den Sponsoren-Logos zu erzeugen.
+ * Die Datei [Slider/Index.md](/Slider/Index.md) wird dazu verwendet den Bilder-Slider auf der Startseite zu erzeugen.
