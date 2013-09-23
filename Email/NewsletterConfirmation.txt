@@ -1,0 +1,11 @@
+@subject=Bitte bestätige deine Anmeldung zum BarCamp RheinMain Newsletter
+Hallo,
+
+bitte bestätige deine Anmeldung zum BarCamp RheinMain Newsletter
+indem Du auf diesen Link klickst:
+
+{{ confirmation_link }}
+
+Vielen Dank!
+
+Dein BarCamp RheinMain Team
