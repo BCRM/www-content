@@ -20,3 +20,22 @@ Gehe dazu auf die [Startseite des Repositories](https://github.com/BCRM/www-cont
 ## Inhalte veröffentlichen
 
 Die Inhalte werden automatisch nach dem Speichern auf der Seite veröffentlich. Du musst nichts weiter dazu tun.
+
+## Seiten-Attribute
+
+Bei den meisten Seiten findest Du am Anfange besonders formatierte Angaben, sogenannte Attribute, z.B. `@order=2`. Diese werden von der Website dazu verwendet, die jeweilige Anzeige anzupassen. Z.B. liefern sie information darüber, wie die Seite in der Unter-Navigation angezeigt wird.
+
+Folgende Seitenattribute kannst Du verwenden:
+
+ * `@title=…` Definiert den Text, der als Titel in einem Hyperlink zu dieser Seite verwendet wird.
+ * `@order=0…9` Definiert die Reihenfolge in der diese Seite in einer Liste  angezeigt wird, die alle Seiten im gleichen Ordner auflistet.
+ * `@subnav=0|1` Deaktiviert die Anzeige einer Liste mit weiteren Seiten aus dem gleichen Ordner.
+ * `@subject=…` definiert bei E-Mail-Templates die Betreffzeile der E-Mail.
+
+## Spezielle Inhalte
+
+Es gibt einige spezielle Inhalte, die nicht direkt als Seiten auf der Website angezeigt werden:
+
+ * Im Ordner [`Email`](/Email) finden sich die Vorlagen für die System-Emails, die von der Website verschickt werden.
+ * Die Datei [`Sponsoren/Index.md`](/Sponsoren/Index.md) wird dazu verwendet den Footer mit den Sponsoren-Logos zu erzeugen.
+ * Die Datei [`Slider/Index.md`](/Slider/Index.md) wird dazu verwendet den Bilder-Slider auf der Startseite zu erzeugen.
