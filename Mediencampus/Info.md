@@ -17,3 +17,6 @@ Großer Wert wird in der Ausbildung auf projektorientiertes Lernen gelegt. Auf d
 Web: [mediencampus.h-da.de](http://mediencampus.h-da.de/)  
 Twitter: [@mediencampus](https://twitter.com/mediencampus)  
 Facebook: [hda.mediencampus](https://www.facebook.com/hda.mediencampus)
+
+@title=Der Campus
+@order=1
