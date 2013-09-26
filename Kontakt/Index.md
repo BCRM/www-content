@@ -1,5 +1,3 @@
-@order=1
-@title=Kontakt
 # Kontakt
 
 Noch Fragen, Anregungen oder Ideen? Dann kontaktier uns einfach auf...  
@@ -7,3 +5,10 @@ Noch Fragen, Anregungen oder Ideen? Dann kontaktier uns einfach auf...
 
 ...oder ganz konventionell per Mail an:  
 [info@netzkultur-rheinmain.de](mailto:info@netzkultur-rheinmain.de)
+
+## Maschinenraum
+
+Bei technischen Problem mit der Website wende dich bitte an [Markus](mailto:m@bc-rm.org).
+
+@order=1
+@title=Kontakt
