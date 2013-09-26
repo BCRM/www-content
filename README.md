@@ -31,6 +31,7 @@ Folgende Seitenattribute kannst Du verwenden:
  * `@order=0…9` Definiert die Reihenfolge in der diese Seite in einer Liste  angezeigt wird, die alle Seiten im gleichen Ordner auflistet.
  * `@subnav=0|1` Deaktiviert die Anzeige einer Liste mit weiteren Seiten aus dem gleichen Ordner.
  * `@subject=…` definiert bei E-Mail-Templates die Betreffzeile der E-Mail.
+ * `@hidden=1` versteckt die Seite, sie wird nicht in der Navigation angezeigt und kann auch nicht über den Pfad aufgerufen werden. Nützlich für z.B. die README.md
 
 ## Spezielle Inhalte
 
