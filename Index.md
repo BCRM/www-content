@@ -8,7 +8,7 @@ Auch eine Themenvorgabe wird bewusst vermieden, fachfremde Teilnehmer und Vortr�
 Die Organisatoren stellen lediglich Termin und R채umlichkeiten zur Verf체gung, um alles andere k체mmern
 sich die Teilnehmer selbst.
 
-> Das n채chste **BarCamp RheinMain findet am 23./24.11.2013 auf dem Campus der Hochschule Dieburg** statt.
+> Das n채chste **BarCamp RheinMain findet am 23./24.11.2013 auf dem Dieburger Mediencampus der Hochschule Darmstadt** statt.
 > Weitere Informationen und die Anmeldung findet Ihr bald hier.
 
 @order=1
