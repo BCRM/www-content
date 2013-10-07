@@ -15,4 +15,4 @@ Das BarCamp ist für die Teilnehmer kostenlos, aber leider nicht für die Verans
  * [Teamwork PM – Online Project Management Software, simple task manager](http://www.teamworkpm.net/)
  * [TCI Rechtsanwälte](http://www.tcilaw.de/)
  * [Zalando – Schuhe und Mode online kaufen](http://www.zalando.de/)
- * [Scholz & Volkmer](http://www.s-v.de/)
+ * [Scholz und Volkmer](http://www.s-v.de/)
