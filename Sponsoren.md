@@ -10,7 +10,7 @@ Das BarCamp ist für die Teilnehmer kostenlos, aber leider nicht für die Verans
  * [LindenKaffee – Service erleben und genießen.](http://www.lindenkaffee.com/)
  * [netz98 – new media gmbh](http://www.netz98.de/)
  * [NIDAG – Internet-Dienstleister für E-Commerce, Mobile und Enterprise 2.0](http://www.nidag.de/)
- * [pixoona.com – Share Moments, not Photos](http://pixoona.com/)
+ * [pixoona.com – Share Moments, not only Photos](http://pixoona.com/)
  * [simyo – Weil einfach einfach einfach ist.](https://www.simyo.de/)
  * [Teamwork PM – Online Project Management Software, simple task manager](http://www.teamworkpm.net/)
  * [TCI Rechtsanwälte](http://www.tcilaw.de/)
