@@ -1,5 +1,3 @@
-@order=4
-@title=Wer bezahlt's?
 # Die Möglichmacher
 
 Das BarCamp ist für die Teilnehmer kostenlos, aber leider nicht für die Veranstalter. Damit nicht nur die Inhalte stimmen, sondern zum Beispiel auch das Essen und die Getränke freuen wir uns, dass wir wieder Sponsoren gewinnen konnten, die das BarCamp Konzept unterstützen.
@@ -14,5 +12,8 @@ Das BarCamp ist für die Teilnehmer kostenlos, aber leider nicht für die Verans
  * [simyo – Weil einfach einfach einfach ist.](https://www.simyo.de/)
  * [Teamwork PM – Online Project Management Software, simple task manager](http://www.teamworkpm.net/)
  * [TCI Rechtsanwälte](http://www.tcilaw.de/)
- * [Zalando – Schuhe und Mode online kaufen](http://www.zalando.de/)
- * [Scholz und Volkmer](http://www.s-v.de/)
+ * [Zalando – Schuhe & Mode online kaufen](http://www.zalando.de/)
+ * [Scholz & Volkmer](http://www.s-v.de/)
+
+@order=4
+@title=Wer bezahlt's?
