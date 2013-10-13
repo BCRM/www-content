@@ -1,0 +1,11 @@
+@subject=Bitte bestätige deine Stornierung zum BarCamp RheinMain
+Hallo,
+
+bitte bestätige deine Stornierung zum BarCamp RheinMain
+indem Du auf diesen Link klickst:
+
+{{ confirmation_link }}
+
+Vielen Dank!
+
+Dein BarCamp RheinMain Team
