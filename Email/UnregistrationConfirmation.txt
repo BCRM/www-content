@@ -1,5 +1,5 @@
-@subject=Bitte bestätige deine Stornierung zum BarCamp RheinMain
-Hallo,
+@subject={{ unregistration.name }}, bitte bestätige deine Stornierung zum BarCamp RheinMain
+Hallo {{ unregistration.name }} ({{ unregistration.email }}),
 
 bitte bestätige deine Stornierung zum BarCamp RheinMain
 indem Du auf diesen Link klickst:

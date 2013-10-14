@@ -1,5 +1,5 @@
-@subject=Bitte bestätige deine Registrierung zum BarCamp RheinMain
-Hallo,
+@subject={{ registration.name }}, bitte bestätige deine Registrierung zum BarCamp RheinMain
+Hallo {{ registration.name }} ({{ registration.email }}),
 
 bitte bestätige deine Registrierung zum BarCamp RheinMain,
 indem Du auf diesen Link klickst:

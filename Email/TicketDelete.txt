@@ -1,7 +1,7 @@
-@subject=Dein Ticket für das BarCamp RheinMain 2013 ({% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %}) wurde storniert
-Hallo,
+@subject={{ ticket.name }}, Dein Ticket für das BarCamp RheinMain 2013 ({% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %}) wurde storniert
+Hallo {{ ticket.name }} ({{ ticket.email }}),
 
-wie gewünscht haben wir dein Ticket storniert.
+wie gewünscht haben wir dein Ticket für {% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %} storniert.
 
 Beste Grüße,
 Dein BarCamp RheinMain Team
