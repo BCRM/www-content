@@ -1,7 +1,7 @@
 @subject=Bitte bestätige deine Registrierung zum BarCamp RheinMain
 Hallo,
 
-bitte bestätige deine Registrierung zum BarCamp RheinMain
+bitte bestätige deine Registrierung zum BarCamp RheinMain,
 indem Du auf diesen Link klickst:
 
 {{ confirmation_link }}
