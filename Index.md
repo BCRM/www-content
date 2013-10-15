@@ -14,3 +14,4 @@ sich die Teilnehmer selbst.
 
 @order=1
 @title=Was ist das?
+@slider=Index
