@@ -9,7 +9,7 @@ Die Organisatoren stellen lediglich Termin und Räumlichkeiten zur Verfügung, u
 sich die Teilnehmer selbst.
 
 > Das nächste **BarCamp RheinMain findet am 23./24.11.2013 auf dem Dieburger Mediencampus der Hochschule Darmstadt** statt.
-> Weitere Informationen und die Anmeldung findet Ihr bald hier.
+> Die Anmeldung startet am Mittwoch, den 16. Oktober 2013 um 10 Uhr.
 
 @order=1
 @title=Was ist das?
