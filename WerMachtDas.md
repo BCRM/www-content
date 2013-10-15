@@ -27,7 +27,14 @@ Freiberuflerin / [Christa Goede - Text. Konzept. Projekt.](http://www.christagoe
 
 ----
 
-**Chrisula Dingiludi**
+![Chrisula Dingiludi](./Team/img/chrisula.jpg)
+**Chrisula Dingiludi**  
+PR-Beraterin / [Mandelkern Management & Kommunikation e.K.](http://www.mandelkern.de/)
+
+*Ich unterstütze das BarCamp RheinMain,* weil es für mich die perfekte Mischung aus Event, digitaler Welt und Kommunikation ist. Das möchte ich so nah wie möglich miterleben: mit spannenden Themen, neuen Kontakten und reichlichen Austausch im BarCamp-Charakter.
+
+*Twitter:* [@ChrisulaD](http://twitter.com/ChrisulaD)  
+*Tags:* #Strategie #Beratung #Psychosozial
 
 ----
 
@@ -85,7 +92,11 @@ Geschäftsführer der [giinco GmbH](http://giinco.de/)
 
 ----
 
-**Tanja Tacker**
+![Tanja Tacker](./Team/img/tanja.jpg)
+**[Tanja Tacker](https://www.xing.com/profile/Tanja_Tacker)**  
+Freie Projektmanagerin Digital + Print
+
+*Twitter:* [@kamilleblumm](https://www.twitter.com/kamilleblumm)
 
 ----
 
