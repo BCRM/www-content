@@ -2,6 +2,7 @@
 
  * [![DESIGNERDOCK – Personalvermittlung — Design, Digital, Werbung, Kommunikation, IT, Marketing](./img/designerdock.png)](http://www.designerdock.de/)
  * [![etecture – digital architects](./img/etecture.png)](http://www.etecture.de/)
+ * [![essquare – we help build organizations of the future by building products for today](./img/essquare.png)](http://www.essquare.de/)
  * [![Jack Wolfskin – At Home Outdoors](./img/jackwolfskin.png)](http://www.jack-wolfskin.com/)
  * [![LindenKaffee – Service erleben und genießen.](./img/lindenkaffee.png)](http://www.lindenkaffee.com/)
  * [![netz98 – new media gmbh](./img/netz98.png)](http://www.netz98.de/)
