@@ -16,6 +16,7 @@ Hier stellt sich das Team des BarCamp RheinMain Dieburg 2013 kurz und knapp vor.
 
 ----
 
+![Christa Goede](./Team/img/christa.jpg)
 **[Christa Goede](http://www.xing.com/profile/Christa_Goede)**  
 Freiberuflerin / [Christa Goede - Text. Konzept. Projekt.](http://www.christagoede.de/)
 
