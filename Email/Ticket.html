@@ -1,0 +1,40 @@
+@subject={{ ticket.name }}, dein Ticket für das BarCamp RheinMain 2013 ({% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %})
+<html>
+<head></head>
+<body>
+    <p>
+        <strong>Hallo {{ ticket.name }} ({{ ticket.email }}),</strong><br/>
+        wir freuen uns, dich auf dem BarCamp RheinMain 2013 begrüßen zu dürfen.
+    </p>
+    <p>
+        Dieses Ticket gilt persönlich für dich am {% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %}.
+    </p>
+    <p style="text-align: center;">
+        <strong>
+            Ticket-Code: {{ ticket.code }}
+        </strong><br/>
+        <img src="{{ image }}" />
+    </p>
+    <p>
+        Klicke hier, um dein Ticket für {% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %} wieder zu stornieren:<br/>
+        <a href="{{ cancel_link }}">{{ cancel_link }}</a>
+    </p>
+    <p>
+        Beste Grüße,<br/>
+        Dein BarCamp RheinMain Team
+    </p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+

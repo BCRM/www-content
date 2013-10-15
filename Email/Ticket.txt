@@ -5,6 +5,8 @@ wir freuen uns, dich auf dem BarCamp RheinMain 2013 begrüßen zu dürfen.
 
 Dieses Ticket gilt persönlich für dich am {% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %}.
 
+Ticket-Code: {{ ticket.code }}
+
 Klicke hier, um dein Ticket für {% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %} wieder zu stornieren:
 {{ cancel_link }}
 
