@@ -63,10 +63,10 @@ Projektmanagerin bei [netz98](http://netz98.de)
 **[Martin Kraft](https://www.xing.com/profile/Martin_Kraft)**  
 Inhaber von [Martin Kraft // Interaktionsdesign](http://www.martinkraft.com/)
 
-*Ich unterstütze das BarCamp RheinMain,* weil ich als langjähriger “Netzbewohner” finde es einfach toll finde, den Gedanken einer offenen und freien Web-Community in das “echte Leben” zu tragen.
+*Ich unterstütze das BarCamp RheinMain,* weil ich helfen möchte die Ideen und Prinzipien des freien Netzes ins “echte Leben” zu tragen.
 
 *Twitter:* [@martin_kraft](https://www.twitter.com/martin_kraft)  
-*Tags:* #Interaktionsdesign #GenerativeGrafik #Netzpolitik
+*Tags:* #Interaktionsdesign #Netzpolitik #Simplexity
 
 ----
 
