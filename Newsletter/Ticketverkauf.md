@@ -29,3 +29,6 @@ Das Team vom BarCamp RheinMain
 ----
 
 [Newsletter](http://eepurl.com/GWcEb) #1 vom 14. Oktober 2013
+
+@title=Newsletter #1
+@order=1
