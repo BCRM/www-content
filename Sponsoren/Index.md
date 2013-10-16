@@ -1,13 +1,15 @@
 ## Das BarCamp RheinMain wird unterstützt durch:
 
  * [![DESIGNERDOCK – Personalvermittlung — Design, Digital, Werbung, Kommunikation, IT, Marketing](./img/designerdock.png)](http://www.designerdock.de/)
- * [![etecture – digital architects](./img/etecture.png)](http://www.etecture.de/)
  * [![essquare – we help build organizations of the future by building products for today](./img/essquare.png)](http://www.essquare.de/)
+ * [![etecture – digital architects](./img/etecture.png)](http://www.etecture.de/)
+ * [![giinco – Full-Service Interaktivagentur mit Sitz in Wiesbaden](./img/giinco.png)](http://www.giinco.de/)
  * [![Jack Wolfskin – At Home Outdoors](./img/jackwolfskin.png)](http://www.jack-wolfskin.com/)
  * [![LindenKaffee – Service erleben und genießen.](./img/lindenkaffee.png)](http://www.lindenkaffee.com/)
  * [![netz98 – new media gmbh](./img/netz98.png)](http://www.netz98.de/)
  * [![NIDAG – Internet-Dienstleister für E-Commerce, Mobile und Enterprise 2.0](./img/nidag.png)](http://www.nidag.de/)
  * [![pixoona.com – Share Moments, not Photos](./img/pixoona.png)](http://pixoona.com/)
+ * [![Scholz & Volkmer](./img/s-v.png)](http://www.s-v.de/)
  * [![simyo – Weil einfach einfach einfach ist.](./img/simyo.png)](https://www.simyo.de/)
  * [![Teamwork PM – Online Project Management Software, simple task manager](./img/teamworkpm.png)](http://www.teamworkpm.net/)
  * [![TCI Rechtsanwälte](./img/tci.png)](http://www.tcilaw.de/)
