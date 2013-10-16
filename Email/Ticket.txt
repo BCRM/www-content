@@ -10,6 +10,8 @@ Ticket-Code: {{ ticket.code }}
 Klicke hier, um dein Ticket für {% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %} wieder zu stornieren:
 {{ cancel_link }}
 
+Bei Fragen und Problemen mit deiner Anmeldung wende dich bitte an anmeldung@barcamp-rheinmain.de.
+
 Beste Grüße,
 Dein BarCamp RheinMain Team
 
