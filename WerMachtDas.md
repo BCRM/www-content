@@ -28,7 +28,7 @@ Freiberuflerin / [Christa Goede - Text. Konzept. Projekt.](http://www.christagoe
 ----
 
 ![Chrisula Dingiludi](./Team/img/chrisula.jpg)
-**Chrisula Dingiludi**  
+**[Chrisula Dingiludi](https://www.xing.com/profiles/Chrisula_Dingiludi)**  
 PR-Beraterin / [Mandelkern Management & Kommunikation e.K.](http://www.mandelkern.de/)
 
 *Ich unterstütze das BarCamp RheinMain,* weil es für mich die perfekte Mischung aus Event, digitaler Welt und Kommunikation ist. Das möchte ich so nah wie möglich miterleben: mit spannenden Themen, neuen Kontakten und reichlichen Austausch im BarCamp-Charakter.
