@@ -22,4 +22,4 @@ Euer Team vom BarCamp RheinMain
 [Newsletter](http://eepurl.com/GWcEb) #2 vom 16. Oktober 2013
 
 @title=Newsletter #2
-@order=2
+@order=3
