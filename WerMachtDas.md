@@ -108,7 +108,7 @@ Professor am Mediencampus der [h_da](http://mediencampus.h-da.de)
 
 *Ich unterstütze das BarCamp RheinMain,* weil ein Mediencampus vom Austausch lebt - nicht nur zwischen Studierenden und Lehrenden, sondern besonders mit Praktikern und anderen Interessierten. Deshalb freuen wir uns immer sehr über Gäste. Und weil das Barcamp RheinMain ganz im Zeichen des offenen Austauschs steht, freuen wir uns besonders, dass wir in diesem Jahr zusammenkommen.
 
-*Twitter:* @tp_da  
+*Twitter:* [@tp_da](https://www.twitter.com/tp_da)  
 *Tags:* #PR #SocialMedia #Mediencampus
 
 ----
