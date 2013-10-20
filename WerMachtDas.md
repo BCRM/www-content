@@ -96,6 +96,8 @@ Geschäftsführer der [giinco GmbH](http://giinco.de/)
 **[Tanja Tacker](https://www.xing.com/profile/Tanja_Tacker)**  
 Freie Projektmanagerin Digital + Print
 
+—
+
 *Twitter:* [@kamilleblumm](https://www.twitter.com/kamilleblumm)
 
 ----
