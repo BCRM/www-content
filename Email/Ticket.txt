@@ -1,13 +1,13 @@
-@subject={{ ticket.name }}, dein Ticket für das BarCamp RheinMain 2013 ({% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %})
+@subject={{ ticket.name }}, dein {{ ticket.prefix }} Ticket für das BarCamp RheinMain 2013 ({% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %})
 Hallo {{ ticket.name }} ({{ ticket.email }}),
 
 wir freuen uns, dich auf dem BarCamp RheinMain 2013 begrüßen zu dürfen.
 
-Dieses Ticket gilt persönlich für dich am {% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %}.
+Dieses {{ ticket.prefix }} Ticket gilt persönlich für dich am {% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %}.
 
-Ticket-Code: {{ ticket.code }}
+{{ ticket.prefix }} Ticket-Code: {{ ticket.code }}
 
-Klicke hier, um dein Ticket für {% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %} wieder zu stornieren:
+Klicke hier, um dein {{ ticket.prefix }} Ticket für {% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %} wieder zu stornieren:
 {{ cancel_link }}
 
 Bei Fragen und Problemen mit deiner Anmeldung wende dich bitte an anmeldung@barcamp-rheinmain.de.
