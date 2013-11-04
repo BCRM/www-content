@@ -1,6 +1,6 @@
 ## Das BarCamp RheinMain wird unterstützt durch:
 
- * [![DESIGNERDOCK – Personalvermittlung — Design, Digital, Werbung, Kommunikation, IT, Marketing](./img/designerdock.png)](http://www.designerdock.de/)
+ * [![DESIGNERDOCK - Personalberatung für Kommunikation und Marketing](./img/designerdock.png)](http://www.designerdock.de/ueber-uns/unsere-vorteile)
  * [![essquare – we help build organizations of the future by building products for today](./img/essquare.png)](http://www.essquare.de/)
  * [![etecture – digital architects](./img/etecture.png)](http://www.etecture.de/)
  * [![giinco – Full-Service Interaktivagentur mit Sitz in Wiesbaden](./img/giinco.png)](http://www.giinco.de/)
