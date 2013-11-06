@@ -2,7 +2,7 @@
 
 Das BarCamp ist für die Teilnehmer kostenlos, aber leider nicht für die Veranstalter. Damit nicht nur die Inhalte stimmen, sondern zum Beispiel auch das Essen und die Getränke freuen wir uns, dass wir wieder Sponsoren gewinnen konnten, die das BarCamp Konzept unterstützen.
 
- * [DESIGNERDOCK – Personalvermittlung — Design, Digital, Werbung, Kommunikation, IT, Marketing](http://www.designerdock.de/)
+ * [DESIGNERDOCK – Personalberatung für Kommunikation und Marketing](http://www.designerdock.de/ueber-uns/unsere-vorteile)
  * [essquare – we help build organizations of the future by building products for today](http://www.essquare.de/)
  * [etecture – digital architects](http://www.etecture.de/)
  * [giinco – Full-Service Interaktivagentur mit Sitz in Wiesbaden](http://www.giinco.de/)
