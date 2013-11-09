@@ -9,6 +9,7 @@
  * [![LindenKaffee – Service erleben und genießen.](./img/lindenkaffee.png)](http://www.lindenkaffee.com/)
  * [![netz98 – new media gmbh](./img/netz98.png)](http://www.netz98.de/)
  * [![NIDAG – Internet-Dienstleister für E-Commerce, Mobile und Enterprise 2.0](./img/nidag.png)](http://www.nidag.de/)
+ * [![Online Digital X – Cross Media Online Marketing](./img/online-digitalx.png)](http://www.online-digitalx.de/)
  * [![pixoona.com – Share Moments, not Photos](./img/pixoona.png)](http://pixoona.com/)
  * [![Scholz & Volkmer](./img/s-v.png)](http://www.s-v.de/)
  * [![simyo – Weil einfach einfach einfach ist.](./img/simyo.png)](https://www.simyo.de/)
