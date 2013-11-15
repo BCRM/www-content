@@ -42,6 +42,11 @@ Landgraf-Georg-Str. 119, 64287 Darmstadt
 (0 61 51) 45 29 3  
 25,– € inklusive Frühstück
 
+**[ibis budget Darmstadt City](http://www.ibis.com/de/hotel-3526-ibis-budget-darmstadt-city-ex-etap-hotel/index.shtml)**  
+Kasinostraße 4, 64293 Darmstadt  
+(0 61 51) 3 97 37 20  
+39,– € ohne Frühstück
+
 @order=2
 @title=Wo findet es statt?
 @slider=Location
