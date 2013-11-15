@@ -2,6 +2,16 @@
 
 Das BarCamp RheinMain 2013 findet am 23./24.11.2013 auf dem [Dieburger Mediencampus der Hochschule Darmstadt](http://www.h-da.de/hochschule/standorte/dieburg/) statt.
 
+## Anfahrt
+
+Anschrift des Mediencampus für Navis: [Max-Planck-Straße 2, 64807 Dieburg](http://bit.ly/18aqunF).
+
+### flinc
+
+Mit dem Mitfahrnetzwerk [flinc](https://flinc.org) kannst Du andere BarCamper finden, die noch einen Platz im Auto frei haben:
+
+<a href="https://flinc.org/groups/1846" class="flincScheduleWidget" data-flinc-style="Grey" data-flinc-type="offer">#bcrm13 flinc Gruppe</a>
+
 ## Übernachten
 
 Das Team vom [Content Strategy Camp](http://www.cscamp.de/) hat uns freundlicherweise diese kleine Auswahl an Hotels in Dieburg & Umgebung zur Verfügung gestellt:
