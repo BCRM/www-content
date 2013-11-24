@@ -25,5 +25,6 @@ anschließend PARTY!
 13:00h Mittagessen  
 14:00h *Session D*  
 15:00h *Session E*  
-16:00h Abschlussveranstaltung  
+15:45h Kaffeepause  
+16:00h Abschlussveranstaltung
 16:30h Abbau
