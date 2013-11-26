@@ -13,7 +13,7 @@
  * [Recap: Barcamp RheinMain 2013 #bcrm13](http://blog.247grad.de/247grad/team/barcamp-rheinmain-2013) @KaiThrun
  * [Ohne sie läuft nichts: Orga-Team, Veranstaltungsort und Sponsoren des BarCamp Rhein-Main (#bcrm13)](http://www.seubert-pr.de/blog/2013/11/25/sponsoren-barcamp-rhein-main-bcrm13/) @ManuelaSeubert
 
-## Infos/Slides/Zusammenfassungen Sessions
+## Infos/Slides/Zusammenfassungen/Sketchnotes Sessions
 
 ### Samstag
 
@@ -24,11 +24,13 @@
  * [FirefoxOS](http://bcrm13.appsbu.de/) @casarock
  * [FirefoxOS](https://github.com/appsbu-de/talk-ffos_bcrm13) @casarock
  * [Wetterfest nach dem Social Storm? (Jack Wolfskin)](https://app.box.com/s/cqftc42fqj9kvwji103p) @TZimmerling
+ * Vorstellung OpenSource CMS Radiant [Radiant cms](https://twitter.com/photostroller/status/404295199494381568/photo/1) [Radiant cms 4,5,6 features](https://twitter.com/photostroller/status/404298312385183744/photo/1) [Radiant cms 7,8,9(https://twitter.com/photostroller/status/404300711426416640/photo/1) [Radiant cms ein Alleskönner?](https://twitter.com/photostroller/status/404304985929682944/photo/1) @photostroller
  
 ### Sonntag
 
  * [Was zum Teufel bedeutet eigentlich Journalismus?](http://www.netzpiloten.de/was-zum-teufel-bedeutet-journalismus/) @julianheck
  * [Was zum Teufel bedeutet eigentlich Journalismus?](http://j.mp/DnT-Wuensche ) @feuermaedchen
+ * QR-Code [QR-ART session](https://twitter.com/photostroller/status/404553414052311040/photo/1) [Anatomie eines QR-Codes](https://twitter.com/photostroller/status/404556559553798144/photo/1) [QR Konfigurator Empfehlung](https://twitter.com/photostroller/status/404559579339427840/photo/1) @@photostroller
  * [Powerpoint Referentenansicht](http://injelea-blog.de/2013/09/23/referentenansicht-in-powerpoint-2013/) @fwhamm
  * [B2B Social Media als Abfallprodukt](https://plus.google.com/+SaschaStoltenow/posts/aKNug9Sf7bv) @BendlerBlogger
 
