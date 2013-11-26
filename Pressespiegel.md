@@ -37,6 +37,7 @@
  * [Powerpoint Referentenansicht](http://injelea-blog.de/2013/09/23/referentenansicht-in-powerpoint-2013/) @fwhamm
  * [Lego Roboter](https://twitter.com/photostroller/status/404569669295550464/photo/1) @photostroller
  * Arbeitsersparnis dank IFTTT [Sketchnote 1/2](https://twitter.com/photostroller/status/404598602737020929/photo/1) / [Sketchnote 2/2](https://twitter.com/photostroller/status/404602712177647616/photo/1) @photostroller
+ * Perspektivenwechsel: Traumhaft durchdachte Handlungsmöglichkeiten -> Link folgt
  * [B2B Social Media als Abfallprodukt](https://plus.google.com/+SaschaStoltenow/posts/aKNug9Sf7bv) @BendlerBlogger
  * [Barcamp How-to 1](https://twitter.com/photostroller/status/404612934300467200/photo/1) / [Infrastruktur](https://twitter.com/photostroller/status/404614821749850113/photo/1) / [Orga](https://twitter.com/photostroller/status/404617630339698688/photo/1) / [BarCamp How To 2](https://twitter.com/photostroller/status/404621632867536897/photo/1) @photostroller
 
