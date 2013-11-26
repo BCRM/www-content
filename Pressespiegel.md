@@ -12,7 +12,7 @@
  * [Barcamp RheinMain 2013 (#bcrm13) – So etwas wie Kirchentag für Nerds](http://pabstblog.de/2013/11/barcamp-rheinmain-2013-bcrm13-so-etwas-wie-kirchentag-fuer-nerds) @KanzleiPabst
  * [Recap: Barcamp RheinMain 2013 #bcrm13](http://blog.247grad.de/247grad/team/barcamp-rheinmain-2013) @KaiThrun
  * [Ohne sie läuft nichts: Orga-Team, Veranstaltungsort und Sponsoren des BarCamp Rhein-Main (#bcrm13)](http://www.seubert-pr.de/blog/2013/11/25/sponsoren-barcamp-rhein-main-bcrm13/) @ManuelaSeubert
-
+ * [#bcrm13 - Tag 1: Erfahrungsaustausch zu Kommunikation, Social Media und Technik](http://www.seubert-pr.de/blog/2013/11/26/bcrm13-tag-1-erfahrungsaustausch-zu-kommunikation-social-media-und-technik/) ManuelaSeubert 
 ## Infos/Slides/Zusammenfassungen/Sketchnotes Sessions
 
 ### Samstag
@@ -33,10 +33,12 @@
 
  * [Was zum Teufel bedeutet eigentlich Journalismus?](http://www.netzpiloten.de/was-zum-teufel-bedeutet-journalismus/) @julianheck
  * [Was zum Teufel bedeutet eigentlich Journalismus?](http://j.mp/DnT-Wuensche ) @feuermaedchen
- * QR-Code [QR-ART session](https://twitter.com/photostroller/status/404553414052311040/photo/1) / [Anatomie eines QR-Codes](https://twitter.com/photostroller/status/404556559553798144/photo/1) / [QR Konfigurator Empfehlung](https://twitter.com/photostroller/status/404559579339427840/photo/1) @photostroller
+ * QR-Code [QR-ART session](https://twitter.com/photostroller/status/404672435737198592/photo/1/) / [Anatomie eines QR-Codes](https://twitter.com/photostroller/status/404556559553798144/photo/1) / [QR Konfigurator Empfehlung](https://twitter.com/photostroller/status/404559579339427840/photo/1) @photostroller
  * [Powerpoint Referentenansicht](http://injelea-blog.de/2013/09/23/referentenansicht-in-powerpoint-2013/) @fwhamm
+ * [Lego Roboter](https://twitter.com/photostroller/status/404569669295550464/photo/1) @photostroller
+ * Arbeitsersparnis dank IFTTT [Sketchnote 1/2](https://twitter.com/photostroller/status/404598602737020929/photo/1) / [Sketchnote 2/2](https://twitter.com/photostroller/status/404602712177647616/photo/1) @photostroller
  * [B2B Social Media als Abfallprodukt](https://plus.google.com/+SaschaStoltenow/posts/aKNug9Sf7bv) @BendlerBlogger
-
+ * [Barcamp How-to](https://twitter.com/photostroller/status/404612934300467200/photo/1) / [Infrastruktur](https://twitter.com/photostroller/status/404614821749850113/photo/1) / [Orga](https://twitter.com/photostroller/status/404617630339698688/photo/1) / [BarCamp How To](https://twitter.com/photostroller/status/404621632867536897/photo/1) @photostroller
 ## Videos
 
  * [Storytelling Hawaiian Style](https://www.youtube.com/watch?v=nZh1H7OvFhQ) @Seb666
