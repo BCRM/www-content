@@ -13,6 +13,9 @@
  * [Recap: Barcamp RheinMain 2013 #bcrm13](http://blog.247grad.de/247grad/team/barcamp-rheinmain-2013) @KaiThrun
  * [Ohne sie läuft nichts: Orga-Team, Veranstaltungsort und Sponsoren des BarCamp Rhein-Main (#bcrm13)](http://www.seubert-pr.de/blog/2013/11/25/sponsoren-barcamp-rhein-main-bcrm13/) @ManuelaSeubert
  * [#bcrm13 - Tag 1: Erfahrungsaustausch zu Kommunikation, Social Media und Technik](http://www.seubert-pr.de/blog/2013/11/26/bcrm13-tag-1-erfahrungsaustausch-zu-kommunikation-social-media-und-technik/) ManuelaSeubert 
+ * [Randnotizen #bcrm13](http://blog.poasworld.de/randnotizen-bcrm13/) @NicoleLuecking
+ * [Bitte füttern](http://www.me-blog.de/bitte-fuettern/#more-464) @tmnbrt
+
 ## Infos/Slides/Zusammenfassungen/Sketchnotes Sessions
 
 ### Samstag
@@ -28,7 +31,7 @@
  * [Wetterfest nach dem Social Storm? (Jack Wolfskin)](https://app.box.com/s/cqftc42fqj9kvwji103p) @TZimmerling
  * [Internet (fast) ohne Google](https://own.bullenscheisse.de/public.php?service=files&t=1a54c71baa050f3f222753cf5bbe1a02) @zeitschlag
  * Vorstellung OpenSource CMS Radiant [Radiant cms](https://twitter.com/photostroller/status/404295199494381568/photo/1) / [Radiant cms 4,5,6 features](https://twitter.com/photostroller/status/404298312385183744/photo/1) / [Radiant cms 7,8,9](https://twitter.com/photostroller/status/404300711426416640/photo/1) / [Radiant cms ein Alleskönner?](https://twitter.com/photostroller/status/404304985929682944/photo/1) @photostroller
- 
+
 ### Sonntag
 
  * [Was zum Teufel bedeutet eigentlich Journalismus?](http://www.netzpiloten.de/was-zum-teufel-bedeutet-journalismus/) @julianheck
