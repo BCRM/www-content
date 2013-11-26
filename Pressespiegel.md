@@ -5,12 +5,11 @@
  * [Eventifier](http://eventifier.com/event/bcrm13/popular)
 
 ## Blog-Beiträge
-
- * [Barcamp RheinMain 2013 #bcrm13](http://kaithrun.de/events/barcamps-events/barcamp-rheinmain-2013-bcrm13), @KaiThrun
- * [Barcamp RheinMain 2013 (#bcrm13) – So etwas wie Kirchentag für Nerds](http://pabstblog.de/2013/11/barcamp-rheinmain-2013-bcrm13-so-etwas-wie-kirchentag-fuer-nerds), @KanzleiPabst
  * [Barcamp Rhein-Main 2013 in Dieburg](http://blog.sperr-objekt.de/content/1000424-Barcamp-Rhein-Main-2013-in-Dieburg.html), @mattsches
  * [Das war mein BarCamp RheinMain 2013 (#bcrm13)](http://www.diebeckerin.de/rueckblick-barcamp-rheinmain-2013/#more-574), @diebeckerin
  * [BarCamp RheinMain 2013](http://schneidr.de/2013/11/barcamp-rheinmain-2013/), @schneidr_de
+ * [Barcamp RheinMain 2013 #bcrm13](http://kaithrun.de/events/barcamps-events/barcamp-rheinmain-2013-bcrm13), @KaiThrun
+ * [Barcamp RheinMain 2013 (#bcrm13) – So etwas wie Kirchentag für Nerds](http://pabstblog.de/2013/11/barcamp-rheinmain-2013-bcrm13-so-etwas-wie-kirchentag-fuer-nerds), @KanzleiPabst
  * [Recap: Barcamp RheinMain 2013 #bcrm13](http://blog.247grad.de/247grad/team/barcamp-rheinmain-2013), @KaiThrun
  * [Ohne sie läuft nichts: Orga-Team, Veranstaltungsort und Sponsoren des BarCamp Rhein-Main (#bcrm13)](http://www.seubert-pr.de/blog/2013/11/25/sponsoren-barcamp-rhein-main-bcrm13/), @ManuelaSeubert
 
