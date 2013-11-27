@@ -15,6 +15,7 @@
  * [#bcrm13 - Tag 1: Erfahrungsaustausch zu Kommunikation, Social Media und Technik](http://www.seubert-pr.de/blog/2013/11/26/bcrm13-tag-1-erfahrungsaustausch-zu-kommunikation-social-media-und-technik/) ManuelaSeubert 
  * [Randnotizen #bcrm13](http://blog.poasworld.de/randnotizen-bcrm13/) @NicoleLuecking
  * [Bitte füttern](http://www.me-blog.de/bitte-fuettern/#more-464) @tmnbrt
+ * [Wow-Wochenende beim BarCamp Rhein-Main 2013](http://www.digitalmediawomen.de/2013/11/27/wahnsinns-wochenende-das-barcamp-rhein-main-2013/) @PaulinaLandes
 
 ## Infos/Slides/Zusammenfassungen/Sketchnotes Sessions
 
@@ -24,6 +25,7 @@
  * [eBooks, DRM und Accessibility](https://twitter.com/photostroller/status/404193674138890241/photo/1) / [Barrierefreiheit](https://twitter.com/photostroller/status/404196139911503872/photo/1) / [korrekt Formatieren](https://twitter.com/photostroller/status/404198044301680642/photo/1) @photostroller 
  * [Die Kraft sozialer Netzwerke](http://de.slideshare.net/junasample/praesentation-28568535) @junaimnetz
  * [Quadrocopter](http://de.slideshare.net/scytto/quadrocopter-private-drohne-oder-tolles-hobby) @scytto
+ * [SEO für Dummies - und warum es sein Geld wert ist](http://www.diebeckerin.de/seo-das-wichtigste-kuerze/#more-570) @diebeckerin
  * Responsive Web Design [Leitfaden](https://twitter.com/photostroller/status/404243620632350720/photo/1) / [Rumpelstilzchen](https://twitter.com/photostroller/status/404249840135073794/photo/1) / [Tooltips](https://twitter.com/photostroller/status/404250999335825408/photo/1) @photostroller
  * Blogger-Kodex (beta) [Blogger Relations](https://twitter.com/photostroller/status/404257941185785856/photo/1) / [Bloggerkindergarten](https://twitter.com/photostroller/status/404262337357434880/photo/1)  @photostroller
  * FirefoxOS [Präse](http://bcrm13.appsbu.de/) / [GithHub](https://github.com/appsbu-de/talk-ffos_bcrm13) @casarock
