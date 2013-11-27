@@ -15,7 +15,7 @@
  * [#bcrm13 - Tag 1: Erfahrungsaustausch zu Kommunikation, Social Media und Technik](http://www.seubert-pr.de/blog/2013/11/26/bcrm13-tag-1-erfahrungsaustausch-zu-kommunikation-social-media-und-technik/) ManuelaSeubert 
  * [Randnotizen #bcrm13](http://blog.poasworld.de/randnotizen-bcrm13/) @NicoleLuecking
  * [Bitte füttern](http://www.me-blog.de/bitte-fuettern/#more-464) @tmnbrt
- * [Wow-Wochenende beim BarCamp Rhein-Main 2013](http://www.digitalmediawomen.de/2013/11/27/wahnsinns-wochenende-das-barcamp-rhein-main-2013/) @PaulinaLandes
+ * [Wow-Wochenende beim BarCamp Rhein-Main 2013](http://www.digitalmediawomen.de/2013/11/27/wahnsinns-wochenende-das-barcamp-rhein-main-2013/) @ChristaGoede
 
 ## Infos/Slides/Zusammenfassungen/Sketchnotes Sessions
 
