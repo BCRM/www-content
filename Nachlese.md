@@ -17,7 +17,7 @@
  * [Bitte füttern](http://www.me-blog.de/bitte-fuettern/#more-464) @tmnbrt
  * [Wow-Wochenende beim BarCamp Rhein-Main 2013](http://www.digitalmediawomen.de/2013/11/27/wahnsinns-wochenende-das-barcamp-rhein-main-2013/) @ChristaGoede
 
-## Infos/Slides/Zusammenfassungen/Sketchnotes Sessions
+## Infos / Slides / Zusammenfassungen / Sketchnotes Sessions
 
 ### Samstag
 
@@ -32,7 +32,7 @@
  * [I have no clue, I have no train, but I have to travel](https://twitter.com/photostroller/status/404281918528581633/photo/1) @photostroller
  * [Wetterfest nach dem Social Storm? (Jack Wolfskin)](https://app.box.com/s/cqftc42fqj9kvwji103p) @TZimmerling
  * [Internet (fast) ohne Google](https://own.bullenscheisse.de/public.php?service=files&t=1a54c71baa050f3f222753cf5bbe1a02) @zeitschlag
- * Vorstellung OpenSource CMS Radiant [Radiant cms](https://twitter.com/photostroller/status/404295199494381568/photo/1) / [Radiant cms 4,5,6 features](https://twitter.com/photostroller/status/404298312385183744/photo/1) / [Radiant cms 7,8,9](https://twitter.com/photostroller/status/404300711426416640/photo/1) / [Radiant cms ein Alleskönner?](https://twitter.com/photostroller/status/404304985929682944/photo/1) @photostroller
+ * [Vorstellung OpenSource CMS Radiant](https://speakerdeck.com/qutic/radiant-cms) [Radiant cms](https://twitter.com/photostroller/status/404295199494381568/photo/1) / [Radiant cms 4,5,6 features](https://twitter.com/photostroller/status/404298312385183744/photo/1) / [Radiant cms 7,8,9](https://twitter.com/photostroller/status/404300711426416640/photo/1) / [Radiant cms ein Alleskönner?](https://twitter.com/photostroller/status/404304985929682944/photo/1) @photostroller
  * [OpenBookCase.org](http://de.slideshare.net/Ravetracer/openbookcaseorg-wheres-your-next-public-book-case) @Ravetracer
 
 ### Sonntag
