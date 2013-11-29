@@ -25,7 +25,7 @@
  * [eBooks, DRM und Accessibility](https://twitter.com/photostroller/status/404193674138890241/photo/1) / [Barrierefreiheit](https://twitter.com/photostroller/status/404196139911503872/photo/1) / [korrekt Formatieren](https://twitter.com/photostroller/status/404198044301680642/photo/1) @photostroller 
  * [Die Kraft sozialer Netzwerke](http://de.slideshare.net/junasample/praesentation-28568535) @junaimnetz
  * [Quadrocopter](http://de.slideshare.net/scytto/quadrocopter-private-drohne-oder-tolles-hobby) @scytto
- * [SEO für Dummies - und warum es sein Geld wert ist](http://www.diebeckerin.de/seo-das-wichtigste-kuerze/#more-570) @diebeckerin
+ * [SEO für Dummies - und warum es sein Geld wert ist](http://browserwerk.de/BCRM/dieburg/seo-session/) @browserwerk / [Das wichtigste in Kürze](http://www.diebeckerin.de/seo-das-wichtigste-kuerze/#more-570) @diebeckerin
  * Responsive Web Design [Leitfaden](https://twitter.com/photostroller/status/404243620632350720/photo/1) / [Rumpelstilzchen](https://twitter.com/photostroller/status/404249840135073794/photo/1) / [Tooltips](https://twitter.com/photostroller/status/404250999335825408/photo/1) @photostroller
  * Blogger-Kodex (beta) [Blogger Relations](https://twitter.com/photostroller/status/404257941185785856/photo/1) / [Bloggerkindergarten](https://twitter.com/photostroller/status/404262337357434880/photo/1)  @photostroller
  * FirefoxOS [Präse](http://bcrm13.appsbu.de/) / [GithHub](https://github.com/appsbu-de/talk-ffos_bcrm13) @casarock
