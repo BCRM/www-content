@@ -12,7 +12,7 @@
  * [Barcamp RheinMain 2013 (#bcrm13) – So etwas wie Kirchentag für Nerds](http://pabstblog.de/2013/11/barcamp-rheinmain-2013-bcrm13-so-etwas-wie-kirchentag-fuer-nerds) @KanzleiPabst
  * [Recap: Barcamp RheinMain 2013 #bcrm13](http://blog.247grad.de/247grad/team/barcamp-rheinmain-2013) @KaiThrun
  * [Ohne sie läuft nichts: Orga-Team, Veranstaltungsort und Sponsoren des BarCamp Rhein-Main (#bcrm13)](http://www.seubert-pr.de/blog/2013/11/25/sponsoren-barcamp-rhein-main-bcrm13/) @ManuelaSeubert
- * [#bcrm13 - Tag 1: Erfahrungsaustausch zu Kommunikation, Social Media und Technik](http://www.seubert-pr.de/blog/2013/11/26/bcrm13-tag-1-erfahrungsaustausch-zu-kommunikation-social-media-und-technik/) ManuelaSeubert 
+ * [#bcrm13 - Tag 1: Erfahrungsaustausch zu Kommunikation, Social Media und Technik](http://www.seubert-pr.de/blog/2013/11/26/bcrm13-tag-1-erfahrungsaustausch-zu-kommunikation-social-media-und-technik/) @ManuelaSeubert 
  * [Randnotizen #bcrm13](http://blog.poasworld.de/randnotizen-bcrm13/) @NicoleLuecking
  * [Bitte füttern](http://www.me-blog.de/bitte-fuettern/#more-464) @tmnbrt
  * [Wow-Wochenende beim BarCamp Rhein-Main 2013](http://www.digitalmediawomen.de/2013/11/27/wahnsinns-wochenende-das-barcamp-rhein-main-2013/) @ChristaGoede
