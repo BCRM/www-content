@@ -54,6 +54,7 @@
  * [Storytelling Hawaiian Style](https://www.youtube.com/watch?v=nZh1H7OvFhQ) @Seb666
  * [CNC-Fräsen und g-code](http://www.youtube.com/watch?v=WSRKeHK5cys) @Seb666
  * [Wetterfest nach dem Social Storm? (Jack Wolfskin)](http://www.youtube.com/watch?v=gAKUOjv8RfM) @Seb666
+ * [Enthüllt: Das Geheinnis meines Facebook-Erfolges!](http://www.youtube.com/watch?v=VAyVmgeCDQg) @Seb666
 
 ## Fotos
 
