@@ -55,6 +55,9 @@
  * [CNC-Fräsen und g-code](http://www.youtube.com/watch?v=WSRKeHK5cys) @Seb666
  * [Wetterfest nach dem Social Storm? (Jack Wolfskin)](http://www.youtube.com/watch?v=gAKUOjv8RfM) @Seb666
  * [Enthüllt: Das Geheinnis meines Facebook-Erfolges!](http://www.youtube.com/watch?v=VAyVmgeCDQg) @Seb666
+ * [Die Kraft sozialer Netzwerke](http://www.youtube.com/watch?v=oJ2s75h_XZ4) @Seb666
+ * [Redaktionskonferenz](http://www.youtube.com/watch?v=3zQpIu5VlDM) @Seb666
+ * [Bitcoin](http://www.youtube.com/watch?v=WCCsNchGkM4) @Seb666
 
 ## Fotos
 
