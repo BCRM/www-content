@@ -16,8 +16,8 @@
  * [Randnotizen #bcrm13](http://blog.poasworld.de/randnotizen-bcrm13/) @NicoleLuecking
  * [Bitte füttern](http://www.me-blog.de/bitte-fuettern/#more-464) @tmnbrt
  * [Wow-Wochenende beim BarCamp Rhein-Main 2013](http://www.digitalmediawomen.de/2013/11/27/wahnsinns-wochenende-das-barcamp-rhein-main-2013/) @ChristaGoede
- *  [BARCAMP-FINALE 2013](http://www.maltekrohn.de/2013/12/01/barcamps-2013-raspberry-pi-geocaching-fuer-anfaenger/) @maltekrohn
- *  [#bcrm13 - Tag 2: Journalismus, Netzwerke, Content und Kommunikationsberatung](http://www.seubert-pr.de/blog/2013/12/01/bcrm13-tag-2-journalismus-netzwerke-content-und-kommunikationsberatung/) @ManuelaSeubert
+ * [BARCAMP-FINALE 2013](http://www.maltekrohn.de/2013/12/01/barcamps-2013-raspberry-pi-geocaching-fuer-anfaenger/) @maltekrohn
+ * [#bcrm13 - Tag 2: Journalismus, Netzwerke, Content und Kommunikationsberatung](http://www.seubert-pr.de/blog/2013/12/01/bcrm13-tag-2-journalismus-netzwerke-content-und-kommunikationsberatung/) @ManuelaSeubert
 
 ## Infos / Slides / Zusammenfassungen / Sketchnotes Sessions
 
@@ -58,14 +58,14 @@
  * [Die Kraft sozialer Netzwerke](http://www.youtube.com/watch?v=oJ2s75h_XZ4) @Seb666
  * [Redaktionskonferenz](http://www.youtube.com/watch?v=3zQpIu5VlDM) @Seb666
  * [Bitcoin](http://www.youtube.com/watch?v=WCCsNchGkM4) @Seb666
- * [Auto 2.0 Elektromobilität am Bsp. Tesla Model S](http://www.youtube.com/watch?v=VpvDLR5OaI)
- * [Vorstellung Master Medienentwicklung](http://www.youtube.com/watch?v=23MfWs9iNW0)
- 
+ * [Auto 2.0 Elektromobilität am Bsp. Tesla Model S](http://www.youtube.com/watch?v=VpvDLR5OaI) @Seb666
+ * [Vorstellung Master Medienentwicklung](http://www.youtube.com/watch?v=23MfWs9iNW0) @Seb666
+
 
 ## Fotos
 
-* [BarCamp RheinMain](http://www.flickr.com/photos/netzkultur/sets/72157638046804675/) div.
-* [Mediencampus der Hochschule Darmstadt (h_da)](http://www.flickr.com/groups/mediencampus/) @nmhonig
+ * [BarCamp RheinMain](http://www.flickr.com/photos/netzkultur/sets/72157638046804675/) div.
+ * [Mediencampus der Hochschule Darmstadt (h_da)](http://www.flickr.com/groups/mediencampus/) @nmhonig
 
 @order=6
 @title=Nachlese
