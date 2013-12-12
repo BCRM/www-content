@@ -60,7 +60,8 @@
  * [Bitcoin](http://www.youtube.com/watch?v=WCCsNchGkM4) [@Seb666](https://twitter.com/Seb666)
  * [Auto 2.0 Elektromobilität am Bsp. Tesla Model S](http://www.youtube.com/watch?v=VpvDLR5OaI) [@Seb666](https://twitter.com/Seb666)
  * [Vorstellung Master Medienentwicklung](http://www.youtube.com/watch?v=23MfWs9iNW0) [@Seb666](https://twitter.com/Seb666)
-
+ * [7 Tipps damit dich dein Gegenüber nicht beißt](http://www.youtube.com/watch?v=ktQvbF7tpiI)  [@Seb666](https://twitter.com/Seb666)
+ * [HowTo Barcamp](http://www.youtube.com/watch?v=-4j25Vl7A80&feature) [@Seb666](https://twitter.com/Seb666)
 
 ## Fotos
 
