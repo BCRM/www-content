@@ -58,6 +58,9 @@
  * [Die Kraft sozialer Netzwerke](http://www.youtube.com/watch?v=oJ2s75h_XZ4) @Seb666
  * [Redaktionskonferenz](http://www.youtube.com/watch?v=3zQpIu5VlDM) @Seb666
  * [Bitcoin](http://www.youtube.com/watch?v=WCCsNchGkM4) @Seb666
+ * [Auto 2.0 Elektromobilität am Bsp. Tesla Model S](http://www.youtube.com/watch?v=VpvDLR5OaI)
+ * [Vorstellung Master Medienentwicklung](http://www.youtube.com/watch?v=23MfWs9iNW0)
+ 
 
 ## Fotos
 
