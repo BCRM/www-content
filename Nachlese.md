@@ -68,6 +68,6 @@
  * [BarCamp RheinMain](http://www.flickr.com/photos/netzkultur/sets/72157638046804675/) div.
  * [Mediencampus der Hochschule Darmstadt (h_da)](http://www.flickr.com/groups/mediencampus/) [@nmhonig](https://twitter.com/nmhonig)
 
-[@order=6](https://twitter.com/order=6)
-[@title=Nachlese](https://twitter.com/title=Nachlese)
+@order=6
+@title=Nachlese
 
