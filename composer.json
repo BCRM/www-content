@@ -1,11 +1,11 @@
 {
     "name": "bcrm/www-content",
-    "description": "Content for http://dieburg2013.barcamp-rheinmain.de/ based on simple Markdown files.",
+    "description": "Content for http://frankfurt2014.barcamp-rheinmain.de/ based on simple Markdown files.",
     "license": "MIT",
     "authors": [
         {
             "name": "Markus Tacker",
-            "email": "m@coderbyheart.de"
+            "email": "m@cto.hiv"
         }
     ],
     "minimum-stability": "stable",

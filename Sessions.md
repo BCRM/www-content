@@ -15,7 +15,7 @@ Bitte keine Scheu, die meisten Besucher von BarCamps sind keine erfahrenen Redne
 
 ## Sessionvorschläge
 
-Zum Sammeln eurer Session-Vorschläge im Vorfeld des BarCamps verwenden wir ein Etherpad (eine Art Live-Wiki), dass ihr hier findet: [piratenpad.de/p/bcrm13](https://piratenpad.de/p/bcrm13). Dort könnt ihr eure Vorschläge eintragen, damit ihr vor Ort noch wisst, was ihr alles für Sessions anbieten wollt. Es sind Vorschläge – die Entscheidung über die Sessions findet erst final vor Ort statt.
+Zum Sammeln eurer Session-Vorschläge im Vorfeld des BarCamps verwenden wir ein Etherpad (eine Art Live-Wiki), dass ihr hier findet: [piratenpad.de/p/bcrm14](https://piratenpad.de/p/bcrm14). Dort könnt ihr eure Vorschläge eintragen, damit ihr vor Ort noch wisst, was ihr alles für Sessions anbieten wollt. Es sind Vorschläge – die Entscheidung über die Sessions findet erst final vor Ort statt.
 
 @order=5
 @title=Sessions

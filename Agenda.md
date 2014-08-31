@@ -1,6 +1,6 @@
 # Agenda
 
-## Samstag, 23.11.2013
+## Samstag, 22.11.2014
 
 08:30h Anmeldung & Frühstück  
 09:30h **Sessionplanung**  
@@ -15,7 +15,7 @@
 18:15h Abschlussveranstaltung  
 anschließend PARTY!
 
-## Sonntag, 24.11.2013
+## Sonntag, 23.11.2014
 
 08:15h Anmeldung & Frühstück  
 09:00h **Sessionplanung**  
