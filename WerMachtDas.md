@@ -11,14 +11,14 @@ Hier stellt sich das Team des BarCamp RheinMain Frankfurt 2014 kurz und knapp vo
 
 ----
 
-![Christa Goede](./Team/img/christa.jpg)
-**[Christa Goede](http://www.xing.com/profile/Christa_Goede)**  
-Freiberuflerin / [Christa Goede - Text. Konzept. Projekt.](http://www.christagoede.de/)
+![Nicola Appel](./Team/img/nicola.jpg)
+**[Nicola Appel](https://www.xing.com/profiles/Nicola_Appel)**  
+[Articulate International Inc.](https://de.articulate.com/) | International Community Manager
 
-*Ich unterstütze das BarCamp RheinMain,* weil ich BarCamps liebe! Und gerne Dinge mit anderen zusammen stemme.
+*Ich unterstütze das BarCamp RheinMain,* weil ich Veranstaltungen wie das Barcamp einfach spannend finde – daraus ergeben sich Kooperationen und neue Kontakte, man bekommt Inspirationen, hält sich auf dem Laufenden und bildet sich gleichzeitig weiter. Es ist für mich selbstverständlich, dass ich mithelfe und meinen Teil dazu beitrage.
 
-*Twitter:* [@ChristaGoede](http://twitter.com/ChristaGoede)  
-*Tags:* #Text #Konzept #Internet
+*Twitter:* [@NicolaAppel](https://www.twitter.com/NicolaAppel)  
+*Tags:* #CommunityManagement #eLearning #Lokalisierung
 
 ----
 
@@ -33,6 +33,28 @@ PR-Beraterin / [Mandelkern Management & Kommunikation e.K.](http://www.mandelker
 
 ----
 
+![Norbert Gilles](./Team/img/norbert.jpg)
+**[Norbert Gilles](https://www.xing.com/profile/norbertgilles)**  
+Geschäftsführer der [giinco GmbH](http://giinco.de/)
+
+*Ich unterstütze das BarCamp RheinMain,* weil es mich einfach interessiert und damit das Event stattfindet braucht man Leute. Und überhaupt: ”Es gibt nicht Gutes, außer man tut es”!
+
+*Twitter:* [@norbertgilles](https://www.twitter.com/norbertgilles)  
+*Tags:* #interactive #agileEntwicklung #applications
+
+----
+
+![Christa Goede](./Team/img/christa.jpg)
+**[Christa Goede](http://www.xing.com/profile/Christa_Goede)**  
+Freiberuflerin / [Christa Goede - Text. Konzept. Projekt.](http://www.christagoede.de/)
+
+*Ich unterstütze das BarCamp RheinMain,* weil ich BarCamps liebe! Und gerne Dinge mit anderen zusammen stemme.
+
+*Twitter:* [@ChristaGoede](http://twitter.com/ChristaGoede)  
+*Tags:* #Text #Konzept #Internet
+
+----
+
 ![Irmela Ketelhut](./Team/img/irmela.jpg)
 **[Irmela Ketelhut](https://www.xing.com/profile/Irmela_Ketelhut)**  
 Projektmanagerin bei [netz98](http://netz98.de)
@@ -43,14 +65,14 @@ Projektmanagerin bei [netz98](http://netz98.de)
 
 ----
 
-![Markus Tacker](./Team/img/markus.jpg)
-**[Markus Tacker](http://cto.hiv/)**  
-[dotHIV Initiative](https://click4life.hiv/) | Chief Technical Officer
+![Tom Klose](./Team/img/tom.jpg)
+**[Tom Klose](https://www.xing.com/profile/Thomas_Klose)**  
+Creative Director der [CAMAO AG](http://www.camao.de/)
 
-*Ich unterstütze das BarCamp RheinMain,* weil es für mich die spannendste Veranstaltung im RheinMain-Gebiet ist und ich möchte, dass auch im nächsten Jahr ein BarCamp RheinMain statt findet.
+*Ich unterstütze das BarCamp RheinMain,* weil Mitmischen schon immer mein Ding war!
 
-*Twitter:* [@coderbyheart](https://twitter.com/coderbyheart)  
-*Tags:* #dotHIV #softwarecraftsmanship #futureofwork
+*Twitter:* [@thomasklose](https://www.twitter.com/thomasklose)  
+*Tags:* #ux #design
 
 ----
 
@@ -65,25 +87,14 @@ Inhaber von [Martin Kraft // Interaktionsdesign](http://www.martinkraft.com/)
 
 ----
 
-![Nicola Appel](./Team/img/nicola.jpg)
-**[Nicola Appel](https://www.xing.com/profiles/Nicola_Appel)**  
-[Articulate International Inc.](https://de.articulate.com/) | International Community Manager
+![Markus Tacker](./Team/img/markus.jpg)
+**[Markus Tacker](http://cto.hiv/)**  
+[dotHIV Initiative](https://click4life.hiv/) | Chief Technical Officer
 
-*Ich unterstütze das BarCamp RheinMain,* weil ich Veranstaltungen wie das Barcamp einfach spannend finde – daraus ergeben sich Kooperationen und neue Kontakte, man bekommt Inspirationen, hält sich auf dem Laufenden und bildet sich gleichzeitig weiter. Es ist für mich selbstverständlich, dass ich mithelfe und meinen Teil dazu beitrage.
+*Ich unterstütze das BarCamp RheinMain,* weil es für mich die spannendste Veranstaltung im RheinMain-Gebiet ist und ich möchte, dass auch im nächsten Jahr ein BarCamp RheinMain statt findet.
 
-*Twitter:* [@NicolaAppel](https://www.twitter.com/NicolaAppel)  
-*Tags:* #CommunityManagement #eLearning #Lokalisierung
-
-----
-
-![Norbert Gilles](./Team/img/norbert.jpg)
-**[Norbert Gilles](https://www.xing.com/profile/norbertgilles)**  
-Geschäftsführer der [giinco GmbH](http://giinco.de/)
-
-*Ich unterstütze das BarCamp RheinMain,* weil es mich einfach interessiert und damit das Event stattfindet braucht man Leute. Und überhaupt: ”Es gibt nicht Gutes, außer man tut es”!
-
-*Twitter:* [@norbertgilles](https://www.twitter.com/norbertgilles)  
-*Tags:* #interactive #agileEntwicklung #applications
+*Twitter:* [@coderbyheart](https://twitter.com/coderbyheart)  
+*Tags:* #dotHIV #softwarecraftsmanship #futureofwork
 
 ----
 
@@ -94,17 +105,6 @@ Freie Projektmanagerin Digital + Print
 —
 
 *Twitter:* [@kamilleblumm](https://www.twitter.com/kamilleblumm)
-
-----
-
-![Tom Klose](./Team/img/tom.jpg)
-**[Tom Klose](https://www.xing.com/profile/Thomas_Klose)**  
-Creative Director der [CAMAO AG](http://www.camao.de/)
-
-*Ich unterstütze das BarCamp RheinMain,* weil Mitmischen schon immer mein Ding war!
-
-*Twitter:* [@thomasklose](https://www.twitter.com/thomasklose)  
-*Tags:* #ux #design
 
 @order=3
 @title=Wer macht das?
