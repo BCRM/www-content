@@ -44,13 +44,13 @@ Projektmanagerin bei [netz98](http://netz98.de)
 ----
 
 ![Markus Tacker](./Team/img/markus.jpg)
-**[Markus Tacker](http://tckr.cc/)**  
-[coder::by(♥);](http://coderbyheart.de/) // Freelance Señor Web Backend Dev
+**[Markus Tacker](http://cto.hiv/)**  
+[dotHIV Initiative](https://click4life.hiv/) | Chief Technical Officer
 
 *Ich unterstütze das BarCamp RheinMain,* weil es für mich die spannendste Veranstaltung im RheinMain-Gebiet ist und ich möchte, dass auch im nächsten Jahr ein BarCamp RheinMain statt findet.
 
-*Twitter:* Nutze ich nicht mehr …  
-*Tags:* #softwarecraftsmanship #startups #futureofwork
+*Twitter:* [@coderbyheart](https://twitter.com/coderbyheart)
+*Tags:* #dotHIV #softwarecraftsmanship #futureofwork
 
 ----
 
