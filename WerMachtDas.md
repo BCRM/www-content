@@ -49,7 +49,7 @@ Projektmanagerin bei [netz98](http://netz98.de)
 
 *Ich unterstütze das BarCamp RheinMain,* weil es für mich die spannendste Veranstaltung im RheinMain-Gebiet ist und ich möchte, dass auch im nächsten Jahr ein BarCamp RheinMain statt findet.
 
-*Twitter:* [@coderbyheart](https://twitter.com/coderbyheart)
+*Twitter:* [@coderbyheart](https://twitter.com/coderbyheart)  
 *Tags:* #dotHIV #softwarecraftsmanship #futureofwork
 
 ----
