@@ -67,12 +67,12 @@ Inhaber von [Martin Kraft // Interaktionsdesign](http://www.martinkraft.com/)
 
 ![Nicola Appel](./Team/img/nicola.jpg)
 **[Nicola Appel](https://www.xing.com/profiles/Nicola_Appel)**  
-[Frankfurt School Verlag GmbH](http://www.frankfurt-school-verlag.de/) | Manager Digitale Medien
+[Articulate International Inc.](https://de.articulate.com/) | International Community Manager
 
 *Ich unterstütze das BarCamp RheinMain,* weil ich Veranstaltungen wie das Barcamp einfach spannend finde – daraus ergeben sich Kooperationen und neue Kontakte, man bekommt Inspirationen, hält sich auf dem Laufenden und bildet sich gleichzeitig weiter. Es ist für mich selbstverständlich, dass ich mithelfe und meinen Teil dazu beitrage.
 
 *Twitter:* [@NicolaAppel](https://www.twitter.com/NicolaAppel)  
-*Tags:* #web20 #communitymanagement #eBooks
+*Tags:* #CommunityManagement #eLearning #Lokalisierung
 
 ----
 
