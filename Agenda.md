@@ -12,8 +12,7 @@
 16:00h Kaffeepause  
 16:30h *Session E*  
 17:30h *Session F*  
-18:15h Abschlussveranstaltung  
-anschließend PARTY!
+18:15h Abschlussveranstaltung
 
 ## Sonntag, 23.11.2014
 
@@ -25,6 +24,6 @@ anschließend PARTY!
 13:00h Mittagessen  
 14:00h *Session D*  
 15:00h *Session E*  
-15:45h Kaffeepause
-16:00h Abschlussveranstaltung
+15:45h Kaffeepause  
+16:00h Abschlussveranstaltung  
 16:30h Abbau
