@@ -9,7 +9,7 @@ Die Organisatoren stellen lediglich Termin und Räumlichkeiten zur Verfügung, u
 sich die Teilnehmer selbst.
 
 Das nächste **BarCamp RheinMain findet am 22./23.11.2014 bei etecture in Frankfurt** statt.  
-Die Anmeldung startet am Montag, den 20. Oktober 2014 um 10 Uhr.
+Die Anmeldung startet am Mittwoch, den 22. Oktober 2014 um 10 Uhr.
 
 @order=1
 @title=Was ist das?
