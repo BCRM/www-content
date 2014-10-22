@@ -78,12 +78,12 @@ Creative Director der [CAMAO AG](http://www.camao.de/)
 
 ![Martin Kraft](./Team/img/martin.jpg)
 **[Martin Kraft](https://www.xing.com/profile/Martin_Kraft)**  
-Inhaber von [Martin Kraft // Interaktionsdesign](http://www.martinkraft.com/)
+Freiberufler / [Martin Kraft // Interaktionsdesign](http://www.martinkraft.com/)
 
-*Ich unterstütze das BarCamp RheinMain,* weil ich helfen möchte die Ideen und Prinzipien des freien Netzes ins “echte Leben” zu tragen.
+*Ich unterstütze das BarCamp RheinMain,* weil ich helfen möchte, die Ideen des freien Netzes ins „echte Leben“ zu tragen.
 
 *Twitter:* [@martin_kraft](https://www.twitter.com/martin_kraft)  
-*Tags:* #Interaktionsdesign #Netzpolitik #Simplexity
+*Tags:* #Design #Netzpolitik #Wikipedia
 
 ----
 
