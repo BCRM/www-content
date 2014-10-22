@@ -4,6 +4,7 @@ Das BarCamp ist für die Teilnehmer kostenlos, aber leider nicht für die Verans
 
  * [die firma – Innovative Kommunikation](http://www.diefirma.de/)
  * [etecture – digital architects](http://www.etecture.de/)
+ * [giinco – Full-Service Interaktivagentur mit Sitz in Wiesbaden](http://www.giinco.de/)
  * [launchwerk GmbH - Agentur für individuelle Webanwendungen](http://launchwerk.de/)
  * [NAMICS](http://www.namics.com/)
  * [netz98 – new media gmbh](http://www.netz98.de/)
@@ -18,8 +19,6 @@ Das Publikum von BarCamps besteht aus einer interessanten, technisch afinen Grup
 Entdecken Sie die Möglichkeiten des Sponsoring von realen sozialen Netzwerken für Ihre unternehmensweite Web 2.0 Strategie.
 
 Wie Sie Sponsor für das BarCamp RheinMain werden können, [erfahren Sie in unserem Sponsoren-Flyer](/content/Downloads/Sponsorenflyer2014.pdf).
-
-
 
 @order=4
 @title=Wer bezahlt's?
