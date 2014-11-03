@@ -2,6 +2,7 @@
 
 Das BarCamp ist für die Teilnehmer kostenlos, aber leider nicht für die Veranstalter. Damit nicht nur die Inhalte stimmen, sondern zum Beispiel auch das Essen und die Getränke freuen wir uns, dass wir wieder Sponsoren gewinnen konnten, die das BarCamp Konzept unterstützen.
 
+ * [Chili &amp; Beans](http://chiliandbeans.de/)
  * [&lt;code&gt;monauts](http://codemonauts.com/)
  * [die firma – Innovative Kommunikation](http://www.diefirma.de/)
  * [etecture – digital architects](http://www.etecture.de/)

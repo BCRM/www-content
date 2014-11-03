@@ -1,5 +1,6 @@
 ## Das BarCamp RheinMain wird unterstützt durch:
 
+ * [![Chili &amp; Beans](./img/c-und-b.png)](http://chiliandbeans.de/)
  * [![&lt;code&gt;monauts](./img/codemonauts.png)](http://codemonauts.com/)
  * [![die firma – Innovative Kommunikation](./img/die-firma.png)](http://www.diefirma.de/)
  * [![etecture – digital architects](./img/etecture.png)](http://www.etecture.de/)
