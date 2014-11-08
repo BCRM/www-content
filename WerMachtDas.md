@@ -106,5 +106,17 @@ Freie Projektmanagerin Digital + Print
 
 *Twitter:* [@kamilleblumm](https://www.twitter.com/kamilleblumm)
 
+----
+
+![Matthias Thürling](./Team/img/matthias.jpg)
+**[Matthias Thürling](https://www.xing.com/profile/MATTHIAS_THUeRLING)**  
+Gründer von [intoCommerce](http://www.into-commerce.de/)
+
+*Ich unterstütze das BarCamp RheinMain,* weil es nirgends sonst so viele kreative und kompetente Menschen gibt, die bereitwillig ihr Wissen teilen. Wissen teilen, Erfahrungen austauschen und gemeinsam wachsen. Das ist BarCamp!
+
+*Tags:* #e-commerce #shopware #b2b
+
+----
+
 @order=3
 @title=Wer macht das?
