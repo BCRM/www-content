@@ -1,11 +1,14 @@
 ## Das BarCamp RheinMain wird unterstützt durch:
 
  * [![Chili &amp; Beans](./img/c-und-b.png)](http://chiliandbeans.de/)
+ * [![CIRCLE8 Event GmbH – Professionelle Eventlösungen](./img/circle8.png)](http://www.circle8.de/)
  * [![&lt;code&gt;monauts](./img/codemonauts.png)](http://codemonauts.com/)
  * [![die firma – Innovative Kommunikation](./img/die-firma.png)](http://www.diefirma.de/)
+ * [![DESIGNERDOCK - Personalberatung für Kommunikation und Marketing](./img/designerdock.png)](http://www.designerdock.de/ueber-uns/unsere-vorteile)
  * [![etecture – digital architects](./img/etecture.png)](http://www.etecture.de/)
  * [![giinco – Full-Service Interaktivagentur mit Sitz in Wiesbaden](./img/giinco.png)](http://www.giinco.de/)
  * [![launchwerk GmbH - Agentur für individuelle Webanwendungen](./img/launchwerk.png)](http://launchwerk.de/)
+ * [![Mandelkern Management &amp; Kommunikation](./img/mandelkern.png)](http://www.mandelkern.de/)
  * [![mediaman //](./img/mediaman.png)](http://mediaman.com/)
  * [![NAMICS](./img/namics.png)](http://www.namics.com/)
  * [![netz98 – new media gmbh](./img/netz98.png)](http://www.netz98.de/)

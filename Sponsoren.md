@@ -3,11 +3,14 @@
 Das BarCamp ist für die Teilnehmer kostenlos, aber leider nicht für die Veranstalter. Damit nicht nur die Inhalte stimmen, sondern zum Beispiel auch das Essen und die Getränke freuen wir uns, dass wir wieder Sponsoren gewinnen konnten, die das BarCamp Konzept unterstützen.
 
  * [Chili &amp; Beans](http://chiliandbeans.de/)
+ * [CIRCLE8 Event GmbH – Professionelle Eventlösungen](http://www.circle8.de/)
  * [&lt;code&gt;monauts](http://codemonauts.com/)
  * [die firma – Innovative Kommunikation](http://www.diefirma.de/)
+ * [DESIGNERDOCK – Personalberatung für Kommunikation und Marketing](http://www.designerdock.de/ueber-uns/unsere-vorteile)
  * [etecture – digital architects](http://www.etecture.de/)
  * [giinco – Full-Service Interaktivagentur mit Sitz in Wiesbaden](http://www.giinco.de/)
  * [launchwerk GmbH - Agentur für individuelle Webanwendungen](http://launchwerk.de/)
+ * [Mandelkern Management &amp; Kommunikation](http://www.mandelkern.de/)
  * [mediaman //](http://mediaman.com/)
  * [NAMICS](http://www.namics.com/)
  * [netz98 – new media gmbh](http://www.netz98.de/)
