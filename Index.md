@@ -10,7 +10,7 @@ sich die Teilnehmer selbst.
 
 Das nächste **BarCamp RheinMain findet am 22./23.11.2014 bei etecture in Frankfurt** statt.  
 
-Zur Zeit sind nur noch Tickets für Sonntag verfügbar. Melde dich aber trotzdem an, 
+Zur Zeit keine Tickets mehr verfügbar. Melde dich aber trotzdem an, 
 du kommst dann automatisch auf die Nachrücker-Liste.
 
 @order=1
