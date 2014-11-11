@@ -28,4 +28,5 @@
 16:00h Abschlussveranstaltung  
 16:30h Abbau
 
-@order=4 @title=Agenda
+@order=4
+@title=Agenda
