@@ -7,6 +7,7 @@ Das BarCamp ist für die Teilnehmer kostenlos, aber leider nicht für die Verans
  * [&lt;code&gt;monauts](http://codemonauts.com/)
  * [die firma – Innovative Kommunikation](http://www.diefirma.de/)
  * [DESIGNERDOCK – Personalberatung für Kommunikation und Marketing](http://www.designerdock.de/ueber-uns/unsere-vorteile)
+ * dpc – DESIGN. PRINT. CUT.
  * [etecture – digital architects](http://www.etecture.de/)
  * [giinco – Full-Service Interaktivagentur mit Sitz in Wiesbaden](http://www.giinco.de/)
  * [launchwerk GmbH - Agentur für individuelle Webanwendungen](http://launchwerk.de/)

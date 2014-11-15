@@ -5,6 +5,7 @@
  * [![&lt;code&gt;monauts](./img/codemonauts.png)](http://codemonauts.com/)
  * [![die firma – Innovative Kommunikation](./img/die-firma.png)](http://www.diefirma.de/)
  * [![DESIGNERDOCK - Personalberatung für Kommunikation und Marketing](./img/designerdock.png)](http://www.designerdock.de/ueber-uns/unsere-vorteile)
+ * ![dpc – DESIGN. PRINT. CUT.](./img/dpc.png)
  * [![etecture – digital architects](./img/etecture.png)](http://www.etecture.de/)
  * [![giinco – Full-Service Interaktivagentur mit Sitz in Wiesbaden](./img/giinco.png)](http://www.giinco.de/)
  * [![launchwerk GmbH - Agentur für individuelle Webanwendungen](./img/launchwerk.png)](http://launchwerk.de/)
