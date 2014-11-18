@@ -1,5 +1,3 @@
-@order=2
-@title=Impressum
 # Impressum
 
 ## Verein zur Förderung der Netzkultur im Rhein-Main-Gebiet e.V.
@@ -15,7 +13,7 @@ Internet: [www.netzkultur-rheinmain.de](http://www.netzkultur-rheinmain.de)
 
 Norbert Gilles, 1. Vorsitzender  
 Nicola Appel, Finanzvorstand  
-Matthias Thürling, Schriftführer
+Tom Klose, Schriftführer
 
 ### Registergericht
 
@@ -40,3 +38,6 @@ Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (
 Google wird diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten für die Websitebetreiber zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen zu erbringen. Auch wird Google diese Informationen gegebenenfalls an Dritte übertragen, sofern dies gesetzlich vorgeschrieben oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Google wird in keinem Fall Ihre IP-Adresse mit anderen Daten von Google in Verbindung bringen.
 
 Sie können die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich nutzen können. Der generellen Datenerhebung und -speicherung durch Google Analytics kann jederzeit mit Hilfe einer Browsererweiterung, verfügbar unter <a href="http://tools.google.com/dlpage/gaoptout?hl=de" target="_blank">http://tools.google.com/dlpage/gaoptout?hl=de</a>, mit Wirkung für die Zukunft widersprochen werden. Durch die Nutzung dieser Website erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.
+
+@order=2
+@title=Impressum
