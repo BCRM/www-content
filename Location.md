@@ -2,6 +2,8 @@
 
 Das BarCamp RheinMain 2014 findet am 22./23.11.2014 bei [etecture in Frankfurt](http://etecture.de/Ueber-uns/Das-Unternehmen/Kontakt) statt.
 
+## Technik
+
 Die Beamer und Monitore haben eine Auflösung bis 1920x1080 und Anschlüsse für VGA, DVI und Mini Display-Port.
 
 ## Anfahrt
