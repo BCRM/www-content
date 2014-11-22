@@ -11,6 +11,7 @@ Das BarCamp ist für die Teilnehmer kostenlos, aber leider nicht für die Verans
  * [etecture – digital architects](http://www.etecture.de/)
  * [giinco – Full-Service Interaktivagentur mit Sitz in Wiesbaden](http://www.giinco.de/)
  * [launchwerk GmbH - Agentur für individuelle Webanwendungen](http://launchwerk.de/)
+ * [LindenKaffee – Service erleben und genießen.](http://www.lindenkaffee.com/)
  * [Mandelkern Management &amp; Kommunikation](http://www.mandelkern.de/)
  * [mediaman //](http://mediaman.com/)
  * [NAMICS](http://www.namics.com/)

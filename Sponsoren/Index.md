@@ -9,6 +9,7 @@
  * [![etecture – digital architects](./img/etecture.png)](http://www.etecture.de/)
  * [![giinco – Full-Service Interaktivagentur mit Sitz in Wiesbaden](./img/giinco.png)](http://www.giinco.de/)
  * [![launchwerk GmbH - Agentur für individuelle Webanwendungen](./img/launchwerk.png)](http://launchwerk.de/)
+ * [![LindenKaffee – Service erleben und genießen.](./img/lindenkaffee.png)](http://www.lindenkaffee.com/)
  * [![Mandelkern Management &amp; Kommunikation](./img/mandelkern.png)](http://www.mandelkern.de/)
  * [![mediaman //](./img/mediaman.png)](http://mediaman.com/)
  * [![NAMICS](./img/namics.png)](http://www.namics.com/)
