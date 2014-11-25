@@ -30,7 +30,7 @@
 
 ## Fotos
 
- * [#bcrm14 auf Twitter](https://www.flickr.com/search/?sort=date-posted-desc&text=%23bcrm14)
+ * [#bcrm14 auf Flickr](https://www.flickr.com/search/?sort=date-posted-desc&text=%23bcrm14)
  * [BarCamp RheinMain](https://www.flickr.com/photos/color_driver/sets/72157649016203830/) [@stanislav](https://twitter.com/stanislav)
  * [Dennis Daum](https://plus.google.com/photos/+DennisDaum/albums/6085015026989769489) [@DennisDaum](https://twitter.com/DennisDaum) 
 
