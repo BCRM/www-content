@@ -6,6 +6,13 @@ Noch Fragen, Anregungen oder Ideen? Dann kontaktier uns einfach auf...
 ...oder ganz konventionell per Mail an:  
 [info@netzkultur-rheinmain.de](mailto:info@netzkultur-rheinmain.de)
 
+## Spendenkonto
+
+Verein zur Förderung der Netzkultur e.V.  
+IBAN DE 20 5104 0038 0522 3094 00  
+BIC COBADEFFXXX  
+Commerzbank Wiesbaden
+
 ## Anmeldung
 
 Bei Fragen und Problemen mit deiner Anmeldung wende dich bitte an [anmeldung@barcamp-rheinmain.de
