@@ -1,7 +1,10 @@
 # Nachlese
 
 ## Blog-Beiträge
-
+ * [Barcamp RheinMain](http://www.velanga.de/2014/11/26/sonstiges/barcamp-rheinmain/) [@ReneZintl](https://twitter.com/ReneZintl)
+ * [Hoch und runter beim #bcrm14](http://www.torstenmaue.com/hoch-und-runter-beim-bcrm14/) [@tmmd](https://twitter.com/tmmd)
+ * [Einsichten mit Aussicht bcrm14](http://blog.poasworld.de/einsichten-mit-aussicht-bcrm14/) 
+ * [“pictures of…” auf dem BarCamp RheinMain 2014](http://picturesof.de/pictures-auf-dem-barcamp-rheinmain-2014/) [@picturesofblog](https://twitter.com/picturesofblog)
  * [Mein Kurzrückblick auf's Barcamp Rhein-Main](http://seb666.de/barcamp-rhein-main/) [@Seb666](https://twitter.com/Seb666)
  * [Das Barcamp Rhein-Main 2014 in Frankfurt](http://blog.sperr-objekt.de/content/1000444-Das-Barcamp-Rhein-Main-2014-in-Frankfurt.html)  [@mattsches](https://twitter.com/mattsches)
  * [BARCAMP RHEINMAIN #BCRM14](http://fischimglas.de/2014/11/barcamp-rheinmain-bcrm14/) [@fischimglas](https://twitter.com/fischimglas)
