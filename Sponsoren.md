@@ -1,6 +1,9 @@
 # Die Möglichmacher
 
-Das BarCamp ist für die Teilnehmer kostenlos, aber leider nicht für die Veranstalter. Damit nicht nur die Inhalte stimmen, sondern zum Beispiel auch das Essen und die Getränke freuen wir uns, wenn wir wieder Sponsoren gewinnen können, die das BarCamp Konzept unterstützen.
+Die Kosten für das BarCamp werden nur zu einem kleinen Teil durch die Einnahmen aus den [Ticket-Verkäufen](/p/Tickets) gedeckt.
+
+Damit nicht nur die Inhalte stimmen, sondern zum Beispiel auch das Essen und die Getränke freuen wir uns, dass wir 
+wieder Sponsoren gewinnen konnten, die das BarCamp Konzept unterstützen.
 
  * [giinco – Full-Service Interaktivagentur mit Sitz in Wiesbaden](http://www.giinco.de/)
  * [NAMICS](http://www.namics.com/)

@@ -17,6 +17,6 @@ Bitte keine Scheu, die meisten Besucher von BarCamps sind keine erfahrenen Redne
 
 Zum Sammeln eurer Session-Vorschläge im Vorfeld des BarCamps verwenden wir ein Etherpad (eine Art Live-Wiki), dass ihr hier findet: [spacepads.de/p/bcrm15](http://spacepads.de/p/bcrm15). Dort könnt ihr eure Vorschläge eintragen, damit ihr vor Ort noch wisst, was ihr alles für Sessions anbieten wollt. Es sind Vorschläge – die Entscheidung über die Sessions findet erst final vor Ort statt. Das Pad wird freundlicherweise zur Verfügung gestellt von [hostedinspace.de](http://hostedinspace.de/).
 
-@order=5
+@order=7
 @title=Sessions
 @slider=Location
