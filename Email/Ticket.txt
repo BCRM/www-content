@@ -1,7 +1,7 @@
-@subject={{ ticket.name }}, dein {{ ticket.prefix }} Ticket für das BarCamp RheinMain 2014 ({% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %})
+@subject={{ ticket.name }}, dein {{ ticket.prefix }} Ticket für das BarCamp RheinMain 2015 ({% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %})
 Hallo {{ ticket.name }} ({{ ticket.email }}),
 
-wir freuen uns, dich auf dem BarCamp RheinMain 2014 begrüßen zu dürfen.
+wir freuen uns, dich auf dem BarCamp RheinMain 2015 begrüßen zu dürfen.
 
 Dieses {{ ticket.prefix }} Ticket gilt persönlich für dich am {% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %}.
 

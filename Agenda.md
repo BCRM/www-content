@@ -1,6 +1,6 @@
 # Agenda
 
-## Samstag, 22.11.2014
+## Samstag, 21.11.2015
 
 08:30h Anmeldung & Frühstück  
 09:30h **Sessionplanung**  
@@ -14,7 +14,7 @@
 17:00h *Session F*  
 18:00h Abschlussveranstaltung Samstag
 
-## Sonntag, 23.11.2014
+## Sonntag, 22.11.2015
 
 08:15h Anmeldung & Frühstück  
 09:00h **Sessionplanung**  

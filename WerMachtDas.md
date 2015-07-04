@@ -7,7 +7,7 @@
 
 ## Team
 
-Hier stellt sich das Team des BarCamp RheinMain Frankfurt 2014 kurz und knapp vor.
+Hier stellt sich das Team des BarCamp RheinMain 2015 kurz und knapp vor.
 
 ----
 
