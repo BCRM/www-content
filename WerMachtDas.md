@@ -89,12 +89,12 @@ Freiberufler / [Martin Kraft // Interaktionsdesign](http://www.martinkraft.com/)
 
 ![Markus Tacker](./Team/img/markus.jpg)
 **[Markus Tacker](http://cto.hiv/)**  
-[dotHIV Initiative](https://click4life.hiv/) | Chief Technical Officer
+[Fintura](https://fintura.de/) | Chief Technical Officer
 
 *Ich unterstütze das BarCamp RheinMain,* weil es für mich die spannendste Veranstaltung im RheinMain-Gebiet ist und ich möchte, dass auch im nächsten Jahr ein BarCamp RheinMain statt findet.
 
 *Twitter:* [@coderbyheart](https://twitter.com/coderbyheart)  
-*Tags:* #dotHIV #softwarecraftsmanship #futureofwork
+*Tags:* #futureofwork #softwarecraftsmanship #startups
 
 ----
 
