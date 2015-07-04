@@ -100,7 +100,7 @@ Freiberufler / [Martin Kraft // Interaktionsdesign](http://www.martinkraft.com/)
 
 ![Tanja Tacker](./Team/img/tanja.jpg)
 **[Tanja Tacker](https://www.xing.com/profile/Tanja_Tacker)**  
-Freie Projektmanagerin Digital + Print
+Projektmanagerin Mobile Solutions / Schwerpunkt UX bei [DB Systel GmbH](https://www.dbsystel.de/)
 
 —
 
