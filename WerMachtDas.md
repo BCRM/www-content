@@ -87,6 +87,16 @@ Freiberufler / [Martin Kraft // Interaktionsdesign](http://www.martinkraft.com/)
 
 ----
 
+![Helge Richter](./Team/img/helge.jpg)
+**[Helge Richter](https://www.xing.com/profile/Helge_Richter)**  
+Manager bei Sopra Steria GmbH
+
+*Ich unterstütze das BarCamp RheinMain,* weil ich es toll finde, wenn Menschen zusammenkommen um sich selbst und andere weiter zu bringen!
+
+*Tags:* #Netzpolitik #FutureTech #Banking
+
+----
+
 ![Markus Tacker](./Team/img/markus.jpg)
 **[Markus Tacker](http://cto.hiv/)**  
 [Fintura](https://fintura.de/) | Chief Technical Officer
