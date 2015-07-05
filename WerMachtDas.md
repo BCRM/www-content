@@ -127,15 +127,5 @@ Gründer von [intoCommerce](http://www.into-commerce.de/)
 *Tags:* #e-commerce #shopware #b2b
 
 ----
-
-![Helge Richter](./Team/img/helge.jpg)
-**[Helge Richter](https://www.xing.com/profile/Helge_Richter)**  
-Manager bei Sopra Steria GmbH
-
-*Ich unterstütze das BarCamp RheinMain,* weil ich es toll finde, wenn Menschen zusammenkommen um sich selbst und andere weiter zu bringen!
-
-*Tags:* #Netzpolitik #FutureTech #Banking
-
-----
 @order=3
 @title=Wer macht das?
