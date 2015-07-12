@@ -1,0 +1,12 @@
+@subject={{ registration.name }}, bitte bezahle deine Registrierung zum BarCamp RheinMain
+Hallo {{ registration.name }} ({{ registration.email }}),
+
+wir haben eine Reservierung für erstellt. Nun musst Du noch bezahlen.
+
+Alles weitere erfährst Du auf der Bezahlen-Seite zu deiner Reservierung:
+
+{{ payment_link }}
+
+Vielen Dank!
+
+Dein BarCamp RheinMain Team
