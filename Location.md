@@ -18,7 +18,7 @@ In Bingen gibt es [viele Hotels und Pensionen](http://www.bingen.de/tourismus/to
 
 Mit dem Mitfahrnetzwerk [flinc](https://flinc.org) kannst Du andere BarCamper finden, die noch einen Platz im Auto frei haben:
 
-<a href="https://flinc.org/groups/2397-barcamp-rheinmain-2015-bingen-21-22-11-2015" class="flincScheduleWidget" data-flinc-style="Grey" data-flinc-type="offer">#bcrm14 flinc Gruppe</a>
+<a href="https://flinc.org/groups/2397-barcamp-rheinmain-2015-bingen-21-22-11-2015" class="flincScheduleWidget" data-flinc-style="Grey" data-flinc-type="offer">#bcrm15 flinc Gruppe</a>
 
 @order=2
 @title=Wo findet es statt?
