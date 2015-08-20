@@ -4,7 +4,7 @@ Das BarCamp RheinMain 2015 findet am 21./22. November 2015 statt – und zwar im
 
 ## Technik
 
-Wenn du eine Session halten und dafür etwas via Beamer oder TV präsentieren möchtest, musst du bitte **sowohl einen VGA- als auch einen HDMI-Adapter** mitbringen. 
+Wenn du eine Session halten möchtest und dafür einen Beamer brauchst, bringe bitte einen VGA-Adapter mit.
 
 ## Anfahrt und Übernachtung
 
