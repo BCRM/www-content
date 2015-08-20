@@ -8,7 +8,7 @@ Auch eine Themenvorgabe wird bewusst vermieden, fachfremde Teilnehmer und Vortr�
 Die Organisatoren stellen lediglich Termin und R채umlichkeiten zur Verf체gung, um alles andere k체mmern
 sich die Teilnehmer selbst.
 
-Das n채chste im November 2015 statt. Wo und wann genau wird noch bekannt gegeben.
+Das n채chste **BarCamp RheinMain findet am 21./22.11.2014 im Stadt-Campus der FH Bingen** statt.  
 
 @order=1
 @title=Was ist das?
