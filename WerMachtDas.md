@@ -67,7 +67,7 @@ Projektmanagerin bei [netz98](http://netz98.de)
 
 ![Tom Klose](./Team/img/tom.jpg)
 **[Tom Klose](https://www.xing.com/profile/Thomas_Klose)**  
-Creative Director der [BARTENBACH AG](http://www.bartenbach.de/)
+Executive Creative Director der [BARTENBACH AG](http://www.bartenbach.de/)
 
 *Ich unterstütze das BarCamp RheinMain,* weil Mitmischen schon immer mein Ding war!
 
