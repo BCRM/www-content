@@ -3,6 +3,9 @@
 Das BarCamp ist für die Teilnehmer kostenlos, aber leider nicht für die Veranstalter. Damit nicht nur die Inhalte stimmen, sondern zum Beispiel auch das Essen und die Getränke freuen wir uns, wenn wir wieder Sponsoren gewinnen können, die das BarCamp Konzept unterstützen.
 
  * [giinco – Full-Service Interaktivagentur mit Sitz in Wiesbaden](http://www.giinco.de/)
+ * [NAMICS](http://www.namics.com/)
+ * [netz98 – new media gmbh](http://www.netz98.de/)
+ * [Scholz & Volkmer](http://www.s-v.de/)
 
 ## Werden Sie Sponsor und unterstützen Sie das BarCamp RheinMain
 
