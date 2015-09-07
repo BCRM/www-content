@@ -1,7 +1,6 @@
 # Veranstaltungsort
 
-Das BarCamp RheinMain 2015 findet am 21./22. November 2015 statt – und zwar im Stadtgebäude der [FH Bingen](http://www.fh-bingen.de/hochschule/lage-und-anfahrt.html)], Rochusallee 4 in 554411 Bingen am Rhein (Stadt)
-Wir starten am 21. November um 9.30 Uhr und am 22. November um ca. 16.00 Uhr endet das Barcamp. 
+Das BarCamp RheinMain 2015 findet am 21./22. November 2015 statt – und zwar im Stadtgebäude der [FH Bingen](http://www.fh-bingen.de/hochschule/lage-und-anfahrt.html). Wir starten am 21. November um 9.30 Uhr und am 22. November um ca. 16.00 Uhr endet das Barcamp. 
 
 ## Technik
 
@@ -11,7 +10,7 @@ Die Beamer und Monitore haben eine Auflösung bis 1920x1080 und Anschlüsse für
 
 Anschrift des Veranstaltungsorts für Navis: [Rochusallee 4, 554411 Bingen am Rhein](https://goo.gl/8YP2bU).
 
-BBingen liegt am Rhein im Landkreis Mainz-Bingen – und damit am Rand des Rhein-Main-Gebiets. Die Anfahrt ist aber via Auto und ÖVIs kein Problem. Die Fahrpläne findet ihr beim [Rhein-Main-Verkehrsverbund](http://www.rmv.de/) und beim [Rhein-Nahe Nahverkehrsverbund](http://fahrplanauskunft.vrn.de/rnn/XSLT_TRIP_REQUEST2?).
+Bingen liegt am Rhein im Landkreis Mainz-Bingen – und damit am Rand des Rhein-Main-Gebiets. Die Anfahrt ist aber via Auto und ÖVIs kein Problem. Die Fahrpläne findet ihr beim [Rhein-Main-Verkehrsverbund](http://www.rmv.de/) und beim [Rhein-Nahe Nahverkehrsverbund](http://fahrplanauskunft.vrn.de/rnn/XSLT_TRIP_REQUEST2?).
 
 In Bingen gibt es [viele Hotels und Pensionen](http://www.bingen.de/tourismus/touristische-angebote-und-service/uebernachten-in-bingen) für alle, die eine Nacht in dem kleinen Städtchen am Rhein bleiben möchten. 
 
