@@ -24,12 +24,12 @@ Hier stellt sich das Team des BarCamp RheinMain 2015 kurz und knapp vor.
 
 ![Chrisula Dingiludi](./Team/img/chrisula.jpg)
 **[Chrisula Dingiludi](https://www.xing.com/profiles/Chrisula_Dingiludi)**  
-PR-Beraterin / [Mandelkern Management & Kommunikation e.K.](http://www.mandelkern.de/)
+Project Manager | [SYZYGY Deutschland GmbH](http://www.syzygy.de)
 
 *Ich unterstütze das BarCamp RheinMain,* weil es für mich die perfekte Mischung aus Event, digitaler Welt und Kommunikation ist. Das möchte ich so nah wie möglich miterleben: mit spannenden Themen, neuen Kontakten und reichlichen Austausch im BarCamp-Charakter.
 
 *Twitter:* [@ChrisulaD](http://twitter.com/ChrisulaD)  
-*Tags:* #Strategie #Beratung #Psychosozial
+*Tags:* #Strategie #Beratung #Digital
 
 ----
 
