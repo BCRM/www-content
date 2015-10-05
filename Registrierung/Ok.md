@@ -5,7 +5,7 @@ Schön, dass Du dabei sein möchtest — wir haben deinen Registrierungswunsch g
 ## WICHTIG!
 
 Bitte bestätige nun deine E-Mail-Adresse in dem Du den Link anklickst, den wir dir in einer E-Mail zugesendet haben.
-**Erst dann ist deine Registrierung vollständig.**
+**Erst dann ist deine Registrierung vollständig und Du kannst mit der Bezahlung fortfahren.**
 
 Geduld, das kann bis zu 5 Minuten dauern.
 
