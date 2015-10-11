@@ -18,6 +18,18 @@
     <p>
         Bitte bringe diese E-Mail (ausgedruckt oder auf deinem SmartPhone) mit zum Checkin.
     </p>
+    {% if registration is defined %}
+    <hr>
+    <p><strong>Deine Daten für dein Namensschild</strong></p>
+    <p>Bitte kontrolliere deine Daten, damit diese auf deinem Namensschild richtig erscheinen:</p>
+    <p>
+        Name: {{ registration.name }}<br>
+        {% if registration.twitter %}Twitter: {{ registration.twitter }}<br>{% endif %}
+        {% if registration.tags %}Tags: {{ registration.tags }}<br>{% endif %}
+    </p>
+    <p>Daten nicht korrekt? Wende dich bitte an <a href="mailto:markus@nametacker.com?subject=Korrigierte+Daten+fuer+Ticket+{{ ticket.code }}">Markus</a>.</p>
+    <hr>
+    {% endif %}
     <p>
         Klicke hier, um dein {{ ticket.label }} Ticket für {% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %} wieder zu stornieren:<br/>
         <a href="{{ cancel_link }}">{{ cancel_link }}</a>

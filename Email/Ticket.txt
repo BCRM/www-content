@@ -7,6 +7,24 @@ Dieses {{ ticket.prefix }} Ticket gilt persönlich für dich am {% if ticket.day
 
 {{ ticket.prefix }} Ticket-Code: {{ ticket.code }}
 
+Bitte bringe diese E-Mail (ausgedruckt oder auf deinem SmartPhone) mit zum Checkin.
+
+{% if registration is defined %}
+####
+
+Deine Daten für dein Namensschild:
+
+Bitte kontrolliere deine Daten, damit diese auf deinem Namensschild richtig erscheinen:
+
+Name: {{ registration.name }}
+{% if registration.twitter %}Twitter: {{ registration.twitter }}{% endif %}
+{% if registration.tags %}Tags: {{ registration.tags }}{% endif %}
+
+Daten nicht korrekt? Wende dich bitte an markus@nametacker.com.
+
+####
+{% endif %}
+
 Klicke hier, um dein {{ ticket.prefix }} Ticket für {% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %} wieder zu stornieren:
 {{ cancel_link }}
 
