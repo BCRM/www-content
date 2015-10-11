@@ -2,14 +2,12 @@
 
 Für 2015 haben wir uns entschieden einen Unkostenbeitrag in Höhe von 10 € pro Tag und Person zu erheben.
 
+> Fragen zur Anmeldung beantwortet dir Markus [per E-Mail](mailto:anmeldung@barcamp-rheinmain.de)
+> oder via [Twitter](https://twitter.com/bc_rm).
+
 Bezahlen kannst Du den Ticketpreis direkt bei der Registrierung mit deinem Girokonto, deiner Kreditkarte über 
 [Paypal](https://www.paypal.com/de/webapps/mpp/personal)<!-- oder sogar bar über 
 [barzahlen.de](https://www.barzahlen.de/de/kunden/funktionsweise) -->.
-
-Fragen zur Anmeldung beantwortet dir Markus [per E-Mail](mailto:anmeldung@barcamp-rheinmain.de)
-oder via [Twitter](https://twitter.com/bc_rm).
-
-**Eine Erstattung deiner Registrierungsgebühr ist nicht möglich!**
 
 Wir müssen solche Zahlungsanbieter verwenden, um den organisatorischen Aufwand gering zu halten. Das manuelle Verbuchen 
 von Zahlungen ist personell bei uns nicht abbildbar und zudem sehr fehleranfällig.
