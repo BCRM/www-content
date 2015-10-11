@@ -2,12 +2,19 @@
 
 Schön, dass Du dabei sein möchtest — wir haben deinen Registrierungswunsch gespeichert.
 
-## WICHTIG!
+## So geht es weiter …
 
-Bitte bestätige nun deine E-Mail-Adresse in dem Du den Link anklickst, den wir dir in einer E-Mail zugesendet haben.
-**Erst dann ist deine Registrierung vollständig und Du kannst mit der Bezahlung fortfahren.**
+Sofern wir noch freie Plätze haben, reservieren wir dir entsprechend deines Wunsches ein Ticket für Samstag und/oder
+Sonntag und Du bekommst eine E-Mail mit Zahlungsinformationen zugeschickt. **Bitte schau auch in deinen SPAM-Ordner!**
 
 Geduld, das kann bis zu 5 Minuten dauern.
+
+## WICHTIG!
+
+**Du musst dann die Zahlung dann innerhalb von 3 Tagen vornehmen, ansonsten verfällt deine Registrierung**
+ 
+Sollten wir inzwischen keine freien Plätze mehr haben, befindest Du dich automatisch auf der Warteliste. Sobald Plätze
+frei werden, rückst Du nach und bekommst eine E-Mail mit Zahlungsinformationen.
 
 Weitere Informationen dazu und zum Ablauf der Registrierung findest Du [hier](/p/Tickets).
 
