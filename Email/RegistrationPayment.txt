@@ -1,4 +1,4 @@
-@subject={{ registration.name }}, bitte bezahle deine Registrierung zum BarCamp RheinMain
+@subject=Bitte bezahle dein BarCamp RheinMain Ticket
 Hallo {{ registration.name }} ({{ registration.email }}),
 
 wir haben eine Reservierung für Dich erstellt. Nun musst Du noch bezahlen.

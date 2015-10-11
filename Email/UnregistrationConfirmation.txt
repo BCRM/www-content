@@ -1,4 +1,4 @@
-@subject=Bitte bestätige deine Stornierung zum BarCamp RheinMain
+@subject=Bitte bestätige deine Ticket-Stornierung für das BarCamp RheinMain
 Hallo,
 
 bitte bestätige deine Stornierung zum BarCamp RheinMain
