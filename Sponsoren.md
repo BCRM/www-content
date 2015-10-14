@@ -5,6 +5,8 @@ Die Kosten für das BarCamp werden nur zu einem kleinen Teil durch die Einnahmen
 Damit nicht nur die Inhalte stimmen, sondern zum Beispiel auch das Essen und die Getränke freuen wir uns, dass wir 
 wieder Sponsoren gewinnen konnten, die das BarCamp Konzept unterstützen.
 
+ * [DESIGNERDOCK – Personalberatung für Kommunikation und Marketing](http://www.designerdock.de/ueber-uns/unsere-vorteile)
+ * [etecture – digital architects](http://www.etecture.de/)
  * [giinco – Full-Service Interaktivagentur mit Sitz in Wiesbaden](http://www.giinco.de/)
  * [NAMICS](http://www.namics.com/)
  * [netz98 – new media gmbh](http://www.netz98.de/)
