@@ -8,7 +8,7 @@ Die Beamer und Monitore haben eine Auflösung bis 1920x1080 und Anschlüsse für
 
 ## Anfahrt und Übernachtung
 
-Anschrift des Veranstaltungsorts für Navis: [Rochusallee 4, 554411 Bingen am Rhein](https://goo.gl/8YP2bU).
+Anschrift des Veranstaltungsorts für Navis: [Rochusallee 4, 55411 Bingen am Rhein](https://goo.gl/8YP2bU).
 
 Bingen liegt am Rhein im Landkreis Mainz-Bingen – und damit am Rand des Rhein-Main-Gebiets. Die Anfahrt ist aber via Auto und ÖVIs kein Problem. Die Fahrpläne findet ihr beim [Rhein-Main-Verkehrsverbund](http://www.rmv.de/) und beim [Rhein-Nahe Nahverkehrsverbund](http://fahrplanauskunft.vrn.de/rnn/XSLT_TRIP_REQUEST2?).
 
