@@ -1,1 +1,6 @@
  * ![Sessionplanung auf dem BarCamp RheinMain 2012 in Wiesbaden](./img/sessionplanung.jpg)
+ * ![Sessionplanung auf dem BarCamp RheinMain 2014 in Frankfurt](./img/sessionplanung_2014.jpg)
+ * ![Session auf dem BarCamp RheinMain 2014 in Frankfurt](./img/session_2014.jpg)
+ * ![Mittagessen auf dem BarCamp RheinMain 2014 in Frankfurt](./img/essen_2014.jpg)
+ * ![Session auf dem BarCamp RheinMain 2014 in Frankfurt](./img/session2_2014.jpg)
+ * ![Musiksession auf dem BarCamp RheinMain 2014 in Frankfurt](./img/musiksession_2014.jpg)
