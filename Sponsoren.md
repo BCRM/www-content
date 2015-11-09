@@ -10,6 +10,7 @@ wieder Sponsoren gewinnen konnten, die das BarCamp Konzept unterstützen.
  * [etecture – digital architects](http://www.etecture.de/)
  * [giinco](http://www.giinco.de/)
  * [Hahn Air](https://www.hahnair.com/)
+ * [LindenKaffee – Service erleben und genießen.](http://www.lindenkaffee.com/)
  * [mediaman //](http://mediaman.com/)
  * [NAMICS](http://www.namics.com/)
  * [netz98 – new media gmbh](http://www.netz98.de/)

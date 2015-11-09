@@ -5,6 +5,7 @@
  * [![etecture – digital architects](./img/etecture.png)](http://www.etecture.de/)
  * [![giinco](./img/giinco.png)](http://www.giinco.de/)
  * [![Hahn Air](./img/hahnair.png)](https://www.hahnair.com/)
+ * [![LindenKaffee – Service erleben und genießen.](./img/lindenkaffee.png)](http://www.lindenkaffee.com/)
  * [![mediaman //](./img/mediaman.png)](http://mediaman.com/)
  * [![NAMICS](./img/namics.png)](http://www.namics.com/)
  * [![netz98 – new media gmbh](./img/netz98.png)](http://www.netz98.de/)
