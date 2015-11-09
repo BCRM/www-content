@@ -4,8 +4,8 @@
 
 Nerotal 6  
 65193 Wiesbaden  
-Telefon: +49 611 2049-196  
-Telefax: +49 611 2049-555  
+Telefon: +49 611 8905340-11  
+Telefax: +49 611 8905340-21 
 E-Mail: [info@netzkultur-rheinmain.de](mailto:info@netzkultur-rheinmain.de)    
 Internet: [www.netzkultur-rheinmain.de](http://www.netzkultur-rheinmain.de)
 
