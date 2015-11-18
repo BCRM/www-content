@@ -9,6 +9,7 @@ wieder Sponsoren gewinnen konnten, die das BarCamp Konzept unterstützen.
  * [DESIGNERDOCK – Personalberatung für Kommunikation und Marketing](http://www.designerdock.de/ueber-uns/unsere-vorteile)
  * [dpc – DESIGN. PRINT. CUT.](http://www.design-print-cut.de/)
  * [etecture – digital architects](http://www.etecture.de/)
+ * [Fachhochschule Bingen](https://www.fh-bingen.de/)
  * [giinco](http://www.giinco.de/)
  * [Hahn Air](https://www.hahnair.com/)
  * [LindenKaffee – Service erleben und genießen.](http://www.lindenkaffee.com/)
