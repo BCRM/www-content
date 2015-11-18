@@ -7,6 +7,7 @@ wieder Sponsoren gewinnen konnten, die das BarCamp Konzept unterstützen.
 
  * [BARTENBACH Kreative Kooperative](http://www.bartenbach.de/)
  * [DESIGNERDOCK – Personalberatung für Kommunikation und Marketing](http://www.designerdock.de/ueber-uns/unsere-vorteile)
+ * dpc – DESIGN. PRINT. CUT.
  * [etecture – digital architects](http://www.etecture.de/)
  * [giinco](http://www.giinco.de/)
  * [Hahn Air](https://www.hahnair.com/)

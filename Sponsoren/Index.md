@@ -2,6 +2,7 @@
 
  * [![BARTENBACH Kreative Kooperative](./img/bartenbach.png)](http://www.bartenbach.de/)
  * [![DESIGNERDOCK - Personalberatung für Kommunikation und Marketing](./img/designerdock.png)](http://www.designerdock.de/ueber-uns/unsere-vorteile)
+ * ![dpc – DESIGN. PRINT. CUT.](./img/dpc.png)
  * [![etecture – digital architects](./img/etecture.png)](http://www.etecture.de/)
  * [![giinco](./img/giinco.png)](http://www.giinco.de/)
  * [![Hahn Air](./img/hahnair.png)](https://www.hahnair.com/)
