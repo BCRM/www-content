@@ -1,5 +1,7 @@
 # Sessions
 
+Den aktuellen Session-Plan findest Du unter <http://j.mp/bcrm15sessions>.
+
 ## Wo kommen die Sessions her?
 
 Jeder kann, keiner muss eine Session anbieten. Aber BarCamps leben von eurer aktiven Teilnahme. Alle vorbereiteten (und auch unvorbereiteten) Sessions werden zu Beginn eines jeden BarCamp-Tages von euch kurz vorgestellt. Die Teilnehmer signalisieren jeweils wie groß das Interesse ist. Je nach erwartetem Andrang werden die Sessions über den Tag geplant und passende Räume zugeteilt. So entsteht der Sessionplan und somit das Veranstaltungsprogramm des Tages.
