@@ -10,6 +10,7 @@
  * Freifunk: [Slides](http://talks.sperrobjekt.de/bcrm15_freifunk/)
  * Katastrophenkommunikation: [Slides](http://www.junaimnetz.de/wp-content/uploads/2015/11/Katastrophen.pdf)
  * Arbeiten überübermorgen, übermorgen und morgen: [Notes](https://bullenscheisse.de/2015/arbeiten-ueberuebermorgen-uebermorgen-und-morgen/) von [Nathan Mattes](https://twitter.com/zeitschlag)
+ * HTML5 Games for Web & Mobile: [Slides](http://de.slideshare.net/casarock/html5-games-for-web-mobile)
 
 ## Fotos
 
