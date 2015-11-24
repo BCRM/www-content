@@ -17,6 +17,7 @@
 ## Fotos
 
  * [#bcrm15 auf Flickr](https://www.flickr.com/search/?sort=date-posted-desc&text=%23bcrm15)
+ * [Fotos von Martin Kraft](https://www.flickr.com/photos/90741600@N03/sets/72157659120329764/)
 
 ## Presse
 
