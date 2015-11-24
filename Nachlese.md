@@ -4,6 +4,7 @@
 
  * [Barcamp Rhein-Main 2015](http://blog.sperrobjekt.de/content/1000478-Barcamp-Rhein-Main-2015.html) von [Matthias Gutjahr](https://twitter.com/mattsches)
  * [Barcamp RheinMain 2015 in Bingen](https://about.namics.com/2015/11/barcamp-rheinmain-2015-in-bingen.html) von [Namics](https://twitter.com/namics)
+ * [BarCamp Rhein-Main 2015: Themenvielfalt #bcrm15](http://www.seubert-pr.de/blog/2015/11/24/barcamp-rhein-main-2015-themenvielfalt-bcrm15/) von [Manuela Seubert](https://twitter.com/ManuelaSeubert)
  
 ## Sessions
 
