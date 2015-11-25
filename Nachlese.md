@@ -14,6 +14,7 @@
  * Arbeiten überübermorgen, übermorgen und morgen: [Notes](https://bullenscheisse.de/2015/arbeiten-ueberuebermorgen-uebermorgen-und-morgen/) von [Nathan Mattes](https://twitter.com/zeitschlag)
  * HTML5 Games for Web & Mobile: [Slides](http://de.slideshare.net/casarock/html5-games-for-web-mobile)
  * How to hire remote workers: [Slides](https://docs.google.com/presentation/d/1KAMzZ8nWJihu61_lsb1xuukhBgzMOPPaiGbvVEjWV_w/edit)
+ * User centered kommunizieren: [Slides](http://downloads.giinco.de/bcrm15/giinco_User-Centered-kommunizieren_bcrm15.pdf?utm_source=hootsuite)
 
 ## Fotos
 
