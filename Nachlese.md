@@ -6,6 +6,7 @@
  * [Barcamp RheinMain 2015 in Bingen](https://about.namics.com/2015/11/barcamp-rheinmain-2015-in-bingen.html) von [Namics](https://twitter.com/namics)
  * [BarCamp Rhein-Main 2015: Themenvielfalt #bcrm15](http://www.seubert-pr.de/blog/2015/11/24/barcamp-rhein-main-2015-themenvielfalt-bcrm15/) von [Manuela Seubert](https://twitter.com/ManuelaSeubert)
  * [(M)ein erstes Mal: BarCamp Rhein-Main 2015](http://falkschmidt.com/2015/11/ein-erstes-mal_bcrm15/) von [Falk Schmidt](https://twitter.com/FalkSchmidt)
+ * [Fließend bis Sprudelnd: #bcrm15](http://blog.poasworld.de/bcrm15/) von [Nicole Lücking](https://twitter.com/photostroller)
  
 ## Sessions
 
