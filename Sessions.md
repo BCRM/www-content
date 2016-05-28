@@ -1,7 +1,5 @@
 # Sessions
 
-Den aktuellen Session-Plan findest Du unter <http://j.mp/bcrm15sessions>.
-
 ## Wo kommen die Sessions her?
 
 Jeder kann, keiner muss eine Session anbieten. Aber BarCamps leben von eurer aktiven Teilnahme. Alle vorbereiteten (und auch unvorbereiteten) Sessions werden zu Beginn eines jeden BarCamp-Tages von euch kurz vorgestellt. Die Teilnehmer signalisieren jeweils wie groß das Interesse ist. Je nach erwartetem Andrang werden die Sessions über den Tag geplant und passende Räume zugeteilt. So entsteht der Sessionplan und somit das Veranstaltungsprogramm des Tages.
@@ -17,7 +15,7 @@ Bitte keine Scheu, die meisten Besucher von BarCamps sind keine erfahrenen Redne
 
 ## Sessionvorschläge
 
-Zum Sammeln eurer Session-Vorschläge im Vorfeld des BarCamps verwenden wir ein Etherpad (eine Art Live-Wiki), dass ihr hier findet: [spacepads.de/p/bcrm15](http://spacepads.de/p/bcrm15). Dort könnt ihr eure Vorschläge eintragen, damit ihr vor Ort noch wisst, was ihr alles für Sessions anbieten wollt. Es sind Vorschläge – die Entscheidung über die Sessions findet erst final vor Ort statt. Das Pad wird freundlicherweise zur Verfügung gestellt von [hostedinspace.de](http://hostedinspace.de/).
+Zum Sammeln eurer Session-Vorschläge im Vorfeld des BarCamps verwenden wir ein Etherpad (eine Art Live-Wiki), dass ihr hier findet: [spacepads.de/p/bcrm16](http://spacepads.de/p/bcrm16). Dort könnt ihr eure Vorschläge eintragen, damit ihr vor Ort noch wisst, was ihr alles für Sessions anbieten wollt. Es sind Vorschläge – die Entscheidung über die Sessions findet erst final vor Ort statt. Das Pad wird freundlicherweise zur Verfügung gestellt von [hostedinspace.de](http://hostedinspace.de/).
 
 @order=7
 @title=Sessions

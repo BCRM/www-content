@@ -1,6 +1,7 @@
 # Was ist denn ein BarCamp?
 
-Ein BarCamp ist eine andere Form von Konferenz.<br> Im Gegensatz zu den gewöhnlichen Fachkonferenzen
+Ein BarCamp ist eine andere Form von Konferenz.  
+Im Gegensatz zu den gewöhnlichen Fachkonferenzen
 erfolgt der Wissensaustausch bei BarCamps gegenseitig. Das heißt, es gibt keine
 designierten Sprecher, die Beiträge werden allesamt von den Besuchern gestaltet und auch gehalten. 
 

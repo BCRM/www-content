@@ -1,3 +1,6 @@
+ * ![BarCamp RheinMain 2015 in Bingen](./img/bingen_2015_panorama.jpg)
+ * ![Session auf dem BarCamp RheinMain 2015 in Bingen](./img/bingen_2015_session.jpg)
+ * ![Sessionplanung auf dem BarCamp RheinMain 2015 in Bingen](./img/bingen_2015_sessionplanung.jpg)
  * ![Sessionplanung auf dem BarCamp RheinMain 2012 in Wiesbaden](./img/sessionplanung.jpg)
  * ![Sessionplanung auf dem BarCamp RheinMain 2014 in Frankfurt](./img/sessionplanung_2014.jpg)
  * ![Session auf dem BarCamp RheinMain 2014 in Frankfurt](./img/session_2014.jpg)

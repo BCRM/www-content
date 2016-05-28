@@ -1,13 +1,12 @@
 # Tickets
 
-Für 2015 haben wir uns entschieden einen Unkostenbeitrag in Höhe von 10 € pro Tag und Person zu erheben.
+Wir erheben einen Kostenbeitrag in Höhe von 10 € pro Tag und Person.
 
 > Fragen zur Anmeldung beantwortet dir Markus [per E-Mail](mailto:anmeldung@barcamp-rheinmain.de)
 > oder via [Twitter](https://twitter.com/bc_rm).
 
 Bezahlen kannst du den Ticketpreis direkt bei der Registrierung mit deinem Girokonto, deiner Kreditkarte über 
-[Paypal](https://www.paypal.com/de/webapps/mpp/personal)<!-- oder sogar bar über 
-[barzahlen.de](https://www.barzahlen.de/de/kunden/funktionsweise) -->.
+[Paypal](https://www.paypal.com/de/webapps/mpp/personal).
 
 Wir müssen solche Zahlungsanbieter verwenden, um den organisatorischen Aufwand gering zu halten. Das manuelle Verbuchen 
 von Zahlungen ist personell bei uns nicht abbildbar und zudem sehr fehleranfällig.
@@ -17,8 +16,6 @@ und zur Gesamtsumme hinzugerechnet:
 
  * Beim Bezahlen mit Paypal beträgt die Gebühr 1,9% + 35 Cent  
    bei 10,- € sind das also 10,54 €
-<!-- * beim Bezahlen mit barzahlen.de beträgt die Gebühr 3,0% + 0,35 Cent  
-   bei 10,- € sind das also 10,65 € -->
    
 ## Und so funktioniert die Registrierung:
 

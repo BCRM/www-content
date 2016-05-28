@@ -1,24 +1,4 @@
-# Die Möglichmacher
-
-Die Kosten für das BarCamp werden nur zu einem kleinen Teil durch die Einnahmen aus den [Ticket-Verkäufen](/p/Tickets) gedeckt.
-
-Damit nicht nur die Inhalte stimmen, sondern zum Beispiel auch das Essen und die Getränke freuen wir uns, dass wir 
-wieder Sponsoren gewinnen konnten, die das BarCamp Konzept unterstützen.
-
- * [BARTENBACH Kreative Kooperative](http://www.bartenbach.de/)
- * [DESIGNERDOCK – Personalberatung für Kommunikation und Marketing](http://www.designerdock.de/ueber-uns/unsere-vorteile)
- * [dpc – DESIGN. PRINT. CUT.](http://www.design-print-cut.de/)
- * [etecture – digital architects](http://www.etecture.de/)
- * [Fachhochschule Bingen](https://www.fh-bingen.de/)
- * [giinco](http://www.giinco.de/)
- * [Hahn Air](https://www.hahnair.com/)
- * [LindenKaffee – Service erleben und genießen.](http://www.lindenkaffee.com/)
- * [mediaman //](http://mediaman.com/)
- * [NAMICS](http://www.namics.com/)
- * [netz98 – new media gmbh](http://www.netz98.de/)
- * [Scholz & Volkmer](http://www.s-v.de/)
-
-## Werden Sie Sponsor und unterstützen Sie das BarCamp RheinMain
+# Werden Sie Sponsor und unterstützen Sie das BarCamp RheinMain
 
 Das Publikum von BarCamps besteht aus einer interessanten, technisch afinen Gruppe. BarCamps bieten die einmalige Möglichkeit Opinionleader, Multiplikatoren, Blogger und Early Adopters direkt zu erreichen. Eine Reihe von Unternehmen haben diesen Vorteil bereits erkannt. Unter anderem Microsoft, Nokia, Samsung und Jack Wolfskin haben bereits das BarCamp in RheinMain unterstützt.
 Entdecken Sie die Möglichkeiten des Sponsoring von realen sozialen Netzwerken für Ihre unternehmensweite Web 2.0 Strategie.

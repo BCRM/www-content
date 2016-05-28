@@ -1,26 +1,53 @@
 # Veranstaltungsort
 
-Das BarCamp RheinMain 2015 findet am 21./22. November 2015 statt – und zwar im Stadtgebäude der [FH Bingen](http://www.fh-bingen.de/hochschule/lage-und-anfahrt.html). Wir starten am 21. November um 9.30 Uhr und am 22. November um ca. 16.00 Uhr endet das Barcamp. 
+Das BarCamp RheinMain 2016 findet am 19./20. November 2016 statt – und zwar 
+and der [Hochschule RheinMain](http://www.hs-rm.de/de/service/hochschul-und-landesbibliothek/ueber-uns/standorte/standort-unter-den-eichen/)
+am MedienCampus *Unter den Eichen*.
 
-## Technik
+Wir starten am 19. November um 9.30 Uhr und am 20. November um ca. 16.00 Uhr endet das BarCamp. 
 
-Die Beamer und Monitore haben eine Auflösung bis 1920x1080 und Anschlüsse für VGA, DVI und Mini Display-Port.
+## Anfahrt
 
-## Anfahrt und Übernachtung
+### mit den öffentlichen Verkehrsmitteln
 
-Anschrift des Veranstaltungsorts für Navis: [Rochusallee 4, 55411 Bingen am Rhein](https://goo.gl/8YP2bU). Ein Parkplatz findet sich direkt [hinter dem Gebäude](https://goo.gl/jNerUP). **Achtung: [Die Zufahrt zur Rheinfähre ist über das Wochende gesperrt!](https://twitter.com/NicolaAppel/status/667650666417008640)**
+Die Anfahrt mit öffentlichen Verkehrsmitteln ist kein Problem. Die Fahrpläne findet ihr beim [Rhein-Main-Verkehrsverbund](http://www.rmv.de/) und beim [ESWE Verkehrsverbund](http://www.eswe-verkehr.de/fahrplaene-und-linien/netzplaene/).
 
-Wenn ihr von der Autobahn kommt, **nicht** der Beschilderung Richtung *Fachhochschule* folgen, diese führen zum anderen Campus. Fahrt Richtung *Innenstadt*. Dort findet Ihr dann unsere schönen, roten Schilder.
+Direkt am Eingang zum Gelände **Unter den Eichen** gibt es eine gleichnamige Bushalte, die von der **Linie 3** angefahren wird, und auch die Haltestelle **Nordfriedhof** ist keine 5 Minuten entfernt und wird von den **Linien 3 und 6** angefahren. Beide Linien fahren über den Hauptbahnhof Wiesbaden (Bussteig D), die **Linie 6** sogar über den **Mainzer Hauptbahnhof**.
 
-Bingen liegt am Rhein im Landkreis Mainz-Bingen – und damit am Rand des Rhein-Main-Gebiets. Die Anfahrt ist aber via Auto und ÖVIs kein Problem. Die Fahrpläne findet ihr beim [Rhein-Main-Verkehrsverbund](http://www.rmv.de/) und beim [Rhein-Nahe Nahverkehrsverbund](http://fahrplanauskunft.vrn.de/rnn/XSLT_TRIP_REQUEST2?).
+## mit dem Auto
 
-In Bingen gibt es [viele Hotels und Pensionen](http://www.bingen.de/tourismus/touristische-angebote-und-service/uebernachten-in-bingen) für alle, die eine Nacht in dem kleinen Städtchen am Rhein bleiben möchten. 
+Anschrift des Veranstaltungsorts für Navis: [Unter den Eichen 5, 65195 Wiesbaden](https://goo.gl/maps/R3NdakqqaTN2).
+
+### Parkplatzsituation
+
+Leider ist es nicht möglich die Parkplätze auf dem Gelände selbst zu benutzen. Von daher ist es klüger, die Öffentlichen zu nutzen, als zur Schranke vorzufahren und dort mit dem Pförtner zu diskutieren;)  
+Entlang der Straße *Unter den Eichen* und im *Carl-von-Ibell-Weg* gibt es jedoch etliche Parkplätze…
+
+### Aus Richtung Köln:
+
+A3 Abfahrt Niedernhausen auf die B 455 Richtung Wiesbaden. Diese wird dann zur New-York-Straße und schließlich zum 1. Ring. Nun müsst ihr dem 1. Ring am Hauptbahnhof vorbei bis zu seinem Ende am Sedanplatz folgen und an links in die <strong>Seerobenstraße</strong> einbiegen. Am Ende des Dürerplatzes geht’s dann rechts Richtung Limburg/Platte B 417. Nach einer langezogen Serpentine erreichen Ihr so linker Hand das Gelände *Unter den Eichen 5*.
+
+### Aus Richtung Würzburg:
+
+Von der A 3 am Wiesbadener Kreuz auf die A 66 bis zur Ausfahrt Wiesbaden-Mainzer Straße. Folgt der Mainzer Straße bis auf den 1. Ring und diesem dann bis zu seinem Ende am Sedanplatz. Dort geht es dann links in die Seerobenstraße. Am Ende des Dürerplatzes müsst Ihr rechts Richtung Limburg/Platte B 417 abbiegen. Nach einer langezogen Serpentine erreichen Ihr so linker Hand das Gelände *Unter den Eichen 5*.
+
+### Aus Richtung Mainz/Darmstadt:
+
+A 671 Abfahrt Wiesbaden-Mainzer Straße. Folgt der Mainzer Straße bis auf den 1. Ring und diesem dann bis zu seinem Ende am Sedanplatz. Dort geht es dann links in die Seerobenstraße. Am Ende des Dürerplatzes müsst Ihr rechts Richtung Limburg/Platte B 417 abbiegen. Nach einer langezogen Serpentine erreichen Ihr so linker Hand das Gelände *Unter den Eichen 5*.
+
+### Aus Richtung Bingen/Koblenz:
+
+Von der A 60 am Dreieck Mainz auf die A 643 weiter bis auf die B 262 / Schiersteiner Straße, dann links auf den 2. Ring, bis zum Dürerplatz. Dort müsst Ihr dann links und direkt wieder rechts abbiegen und der B 417 Richtugn Limburg/Platte folgen. Nach einer langezogen Serpentine erreichen Ihr so linker Hand das Gelände *Unter den Eichen 5*.
+
+## Übernachtung
+
+In Wiesbaden gibt es [viele Hotels und Pensionen](https://www.wiesbaden.de/tourismus/unterkuenfte/index.php) für alle, die eine Nacht der hessischen Landeshauptstadt verbringen wollen. 
 
 ### flinc
 
 Mit dem Mitfahrnetzwerk [flinc](https://flinc.org) kannst Du andere BarCamper finden, die noch einen Platz im Auto frei haben:
 
-<a href="https://flinc.org/groups/2397-barcamp-rheinmain-2015-bingen-21-22-11-2015" class="flincScheduleWidget" data-flinc-style="Grey" data-flinc-type="offer">#bcrm15 flinc Gruppe</a>
+<a href="https://flinc.org/groups/2642-barcamp-rheinmain-2016-wiesbaden-19-20-11-2016" class="flincScheduleWidget" data-flinc-style="Grey" data-flinc-type="offer">#bcrm16 flinc Gruppe</a>
 
 @order=2
 @title=Wo findet es statt?

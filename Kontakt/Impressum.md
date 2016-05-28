@@ -27,7 +27,7 @@ Norbert Gilles (Anschrift wie oben)
 
 siehe [humans.txt](/humans.txt)
 
-## Haftungshinweis</h2>
+## Haftungshinweis
 
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links oder eingebundenen Dokumente Dritter. Für den Inhalt der verlinkten Seiten oder Dokumente sind ausschließlich deren Betreiber bzw. Autoren verantwortlich.
 

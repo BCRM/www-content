@@ -2,7 +2,7 @@
 
 ## Verein für Netzkultur
 
-2010 haben sich die Organisatoren des 1. Barcamp Mainz zum Verein zur Förderung der Netzkultur im Rhein-Main Gebiet e.V. zusammengetan. Als Verein treten wir seitdem als Veranstalter der BarCamps RheinMain auf. So sind wir unabhängig und können unsere Ideen von einer nachhaltigen Netzkultur umsetzen.  
+2010 haben sich die Organisatoren des 1. BarCamp Mainz zum Verein zur Förderung der Netzkultur im Rhein-Main Gebiet e.V. zusammengetan. Als Verein treten wir seitdem als Veranstalter der BarCamps RheinMain auf. So sind wir unabhängig und können unsere Ideen von einer nachhaltigen Netzkultur umsetzen.  
 [Mehr zum Verein »](http://netzkultur-rheinmain.de/)
 
 ## Team
@@ -15,7 +15,7 @@ Hier stellt sich das Team des BarCamp RheinMain 2015 kurz und knapp vor.
 **[Nicola Appel](https://www.xing.com/profiles/Nicola_Appel)**  
 [Articulate International Inc.](https://de.articulate.com/) | International Community Manager
 
-*Ich unterstütze das BarCamp RheinMain,* weil ich Veranstaltungen wie das Barcamp einfach spannend finde – daraus ergeben sich Kooperationen und neue Kontakte, man bekommt Inspirationen, hält sich auf dem Laufenden und bildet sich gleichzeitig weiter. Es ist für mich selbstverständlich, dass ich mithelfe und meinen Teil dazu beitrage.
+*Ich unterstütze das BarCamp RheinMain,* weil ich Veranstaltungen wie das BarCamp einfach spannend finde – daraus ergeben sich Kooperationen und neue Kontakte, man bekommt Inspirationen, hält sich auf dem Laufenden und bildet sich gleichzeitig weiter. Es ist für mich selbstverständlich, dass ich mithelfe und meinen Teil dazu beitrage.
 
 *Twitter:* [@NicolaAppel](https://www.twitter.com/NicolaAppel)  
 *Tags:* #CommunityManagement #eLearning #Lokalisierung
