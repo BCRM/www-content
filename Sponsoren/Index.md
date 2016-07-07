@@ -1,1 +1,4 @@
-## Wenn Sie Sponsor für das BarCamp RheinMain werden wollen, [sprechen Sie uns an](/p/Kontakt/Index).
+## Das BarCamp RheinMain wird unterstützt durch:
+
+ * [![mediaman //](./img/mediaman.png)](http://mediaman.com/)
+
