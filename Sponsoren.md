@@ -5,6 +5,7 @@ Die Kosten für das BarCamp werden nur zu einem kleinen Teil durch die Einnahmen
 Damit nicht nur die Inhalte stimmen, sondern zum Beispiel auch das Essen und die Getränke freuen wir uns, dass wir 
 wieder Sponsoren gewinnen konnten, die das BarCamp Konzept unterstützen.
 
+ * [DB Systel GmbH](http://www.dbsystel.de/dbsystel/karriere/)
  * [mediaman //](http://mediaman.com/)
 
 ## Werden Sie Sponsor und unterstützen Sie das BarCamp RheinMain
