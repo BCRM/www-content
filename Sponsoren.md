@@ -6,7 +6,10 @@ Damit nicht nur die Inhalte stimmen, sondern zum Beispiel auch das Essen und die
 wieder Sponsoren gewinnen konnten, die das BarCamp Konzept unterstützen.
 
  * [DB Systel GmbH](http://www.dbsystel.de/dbsystel/karriere/)
+ * [DESIGNERDOCK – Personalberatung für Kommunikation und Marketing](https://www.designerdock.com/fuer-kunden/was-wir-bieten/)
  * [mediaman //](http://mediaman.com/)
+ * [netz98 – new media gmbh](http://www.netz98.de/)
+ * [Scholz & Volkmer](http://www.s-v.de/)
 
 ## Werden Sie Sponsor und unterstützen Sie das BarCamp RheinMain
 
