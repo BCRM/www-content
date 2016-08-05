@@ -7,6 +7,7 @@ wieder Sponsoren gewinnen konnten, die das BarCamp Konzept unterstützen.
 
  * [DB Systel GmbH](http://www.dbsystel.de/dbsystel/karriere/)
  * [DESIGNERDOCK – Personalberatung für Kommunikation und Marketing](https://www.designerdock.com/fuer-kunden/was-wir-bieten/)
+ * [Hochschule RheinMain](https://www.hs-rm.de/)
  * [mediaman //](http://mediaman.com/)
  * [netz98 – new media gmbh](http://www.netz98.de/)
  * [Scholz & Volkmer](http://www.s-v.de/)
