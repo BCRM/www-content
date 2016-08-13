@@ -10,7 +10,7 @@ Wende dich vor Ort an das Team. Team-Mitglieder erkennst Du an den orangenen T-S
 
 ## Die Kurzfassung
 
-Wir möchten unseren Besuchern_innen eine belästigungsfreie Veranstaltungserfahrung bieten, unabhängig von Geschlecht, sexueller Orientierung, Behinderung, Aussehen, Körperbau, Hautfarbe, Religion, Nationalität oder Beruf. Wir tolerieren keinerlei Belästigung von Veranstaltungsbesucher_innen. Sexualisierte Sprache und Darstellungen sind auf dem BCRM unerwünscht. Dies umfasst den Veranstaltungsort, die Vorträge, Workshops und Feiern, sowie Twitter und andere Online-Medien. Teilnehmer_innen, die gegen diese Regeln verstoßen, müssen mit Sanktionen durch die Veranstalter rechnen, inklusive des Ausschlusses.
+Wir möchten unseren Besuchern_innen eine belästigungsfreie Veranstaltungserfahrung bieten, unabhängig von Geschlecht, sexueller Orientierung, Alter, Behinderung, Aussehen, Körperbau, Hautfarbe, Religion, Nationalität oder Beruf. Wir tolerieren keinerlei Belästigung von Veranstaltungsbesucher_innen. Sexualisierte Sprache und Darstellungen sind auf dem BCRM unerwünscht. Dies umfasst den Veranstaltungsort, die Vorträge, Workshops und Feiern, sowie Twitter und andere Online-Medien. Teilnehmer_innen, die gegen diese Regeln verstoßen, müssen mit Sanktionen durch die Veranstalter rechnen, inklusive des Ausschlusses.
 
 ## Die längere Fassung
 
