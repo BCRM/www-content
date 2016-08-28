@@ -9,6 +9,7 @@ wieder Sponsoren gewinnen konnten, die das BarCamp Konzept unterstützen.
  * [DESIGNERDOCK – Personalberatung für Kommunikation und Marketing](https://www.designerdock.com/fuer-kunden/was-wir-bieten/)
  * [Hochschule RheinMain](https://www.hs-rm.de/)
  * [mediaman //](http://mediaman.com/)
+ * [NAMICS](http://www.namics.com/)
  * [netz98 – new media gmbh](http://www.netz98.de/)
  * [Scholz & Volkmer](http://www.s-v.de/)
 
