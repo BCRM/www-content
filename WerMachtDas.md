@@ -46,12 +46,12 @@ Geschäftsführer der [giinco GmbH](http://giinco.de/)
 
 ![Christa Goede](./Team/img/christa.jpg)
 **[Christa Goede](http://www.xing.com/profile/Christa_Goede)**  
-Freiberuflerin / [Christa Goede - Text. Konzept. Projekt.](http://www.christagoede.de/)
+Freiberuflerin / [Christa Goede - Text. Websites.Social Media.](http://www.christagoede.de/)
 
-*Ich unterstütze das BarCamp RheinMain,* weil ich BarCamps liebe! Und gerne Dinge mit anderen zusammen stemme.
+*Ich unterstütze das BarCamp RheinMain, weil ich BarCamps liebe: So viele spannende Menschen, interessante Themen, Inspiration! Und das alles ohne kommerzielles Interesse, super. 
 
 *Twitter:* [@ChristaGoede](http://twitter.com/ChristaGoede)  
-*Tags:* #Text #Konzept #Internet
+*Tags:* #Text #Websites #SocialMedia
 
 ----
 
