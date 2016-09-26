@@ -99,12 +99,12 @@ Manager bei Sopra Steria GmbH
 
 ![Markus Tacker](./Team/img/markus.jpg)
 **[Markus Tacker](http://coderbyheart.com/)**  
-[Fintura](https://fintura.de/) | Chief Technical Officer
+[Resourceful Humans](https://resourceful-humans.com/) | Channeler of Technological Obscurities (CTO)
 
 *Ich unterstütze das BarCamp RheinMain,* weil es für mich die spannendste Veranstaltung im RheinMain-Gebiet ist und ich möchte, dass auch im nächsten Jahr ein BarCamp RheinMain statt findet.
 
 *Twitter:* [@coderbyheart](https://twitter.com/coderbyheart)  
-*Tags:* #futureofwork #softwarecraftsmanship #startups
+*Tags:* #futureofwork #softwarecraftsmanship #remote
 
 ----
 
