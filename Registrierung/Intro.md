@@ -3,7 +3,7 @@
 Du möchtest am nächsten %%event%% teilnehmen?  
 Sicher Dir hier jetzt Dein Ticket!
 
-Seit diesem Jahr kostet die Teilnahme am BarCamp RheinMain %%pricePerDay%% pro Tag. 
+Die Teilname am BarCamp RheinMain kostet %%pricePerDay%% pro Tag. 
 Weitere Informationen dazu und zum Ablauf der Registrierung findest Du [hier](/p/Tickets).
 
 Fragen zur Anmeldung beantwortet dir Markus [per E-Mail](mailto:anmeldung@barcamp-rheinmain.de)
