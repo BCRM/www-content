@@ -1,4 +1,4 @@
-@subject=Dein {{ ticket.prefix }} Ticket für das BarCamp RheinMain 2015 ({% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %}) wurde storniert
+@subject=Dein {{ ticket.prefix }} Ticket für das BarCamp RheinMain 2016 ({% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %}) wurde storniert
 Hallo {{ ticket.name }} ({{ ticket.email }}),
 
 wie gewünscht haben wir dein {{ ticket.prefix }} Ticket für {% if ticket.day == 1 %}SAMSTAG{% else %}SONNTAG{% endif %} storniert.

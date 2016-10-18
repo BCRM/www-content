@@ -1,6 +1,6 @@
 {
     "name": "bcrm/www-content",
-    "description": "Content for http://2015.barcamp-rheinmain.de/ based on simple Markdown files.",
+    "description": "Content for https://barcamp-rheinmain.de/ based on simple Markdown files.",
     "license": "MIT",
     "authors": [
         {
