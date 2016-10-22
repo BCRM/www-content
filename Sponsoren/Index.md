@@ -1,5 +1,6 @@
 ## Das BarCamp RheinMain wird unterstützt durch:
 
+ * [![Access All Areas – Design in Wiesbaden](./img/aaa.svg)](http://aaa-wiesbaden.de/)
  * [![DB Systel GmbH](./img/dbsystel.png)](http://www.dbsystel.de/dbsystel/karriere/)
  * [![DESIGNERDOCK - Personalberatung für Kommunikation und Marketing](./img/designerdock.png)](https://www.designerdock.com/fuer-kunden/was-wir-bieten/)
  * [![Hochschule RheinMain](./img/hsrm.svg)](https://www.hs-rm.de/)

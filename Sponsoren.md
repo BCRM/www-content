@@ -5,6 +5,7 @@ Die Kosten für das BarCamp werden nur zu einem kleinen Teil durch die Einnahmen
 Damit nicht nur die Inhalte stimmen, sondern zum Beispiel auch das Essen und die Getränke freuen wir uns, dass wir 
 wieder Sponsoren gewinnen konnten, die das BarCamp Konzept unterstützen.
 
+ * [Access All Areas – Design in Wiesbaden](http://aaa-wiesbaden.de/)
  * [DB Systel GmbH](http://www.dbsystel.de/dbsystel/karriere/)
  * [DESIGNERDOCK – Personalberatung für Kommunikation und Marketing](https://www.designerdock.com/fuer-kunden/was-wir-bieten/)
  * [Hochschule RheinMain](https://www.hs-rm.de/)
