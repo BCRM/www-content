@@ -25,7 +25,7 @@ Entlang der Straße *Unter den Eichen* und im *Carl-von-Ibell-Weg* gibt es jedoc
 
 ### Aus Richtung Köln:
 
-A3 Abfahrt Niedernhausen auf die B 455 Richtung Wiesbaden. Diese wird dann zur New-York-Straße und schließlich zum 1. Ring. Nun müsst ihr dem 1. Ring am Hauptbahnhof vorbei bis zu seinem Ende am Sedanplatz folgen und an links in die <strong>Seerobenstraße</strong> einbiegen. Am Ende des Dürerplatzes geht’s dann rechts Richtung Limburg/Platte B 417. Nach einer langezogen Serpentine erreichen Ihr so linker Hand das Gelände *Unter den Eichen 5*.
+Verlasst in Idstein die A3 und biegt direkt zwei mal links ab auf die K707 Richtung Taunusstein/Wiesbaden. Nach 4,5&nbsp;km erreicht Ihr die Hühnerstraße/B417, auf der ihr dann links bis Wiesbaden folgt. Hier fahrt ihr direkt nach dem Ortseingangsschild rechts ab. Gleich die zweite Einfahrt rechts führt Euch auf das Gelände *Unter den Eichen 5*.
 
 ### Aus Richtung Würzburg:
 
