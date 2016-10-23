@@ -25,7 +25,7 @@ Entlang der Straße *Unter den Eichen* und im *Carl-von-Ibell-Weg* gibt es jedoc
 
 ### Aus Richtung Köln:
 
-Verlasst in Idstein die A3 und biegt direkt zwei mal links ab auf die K707 Richtung Taunusstein/Wiesbaden. Nach 4,5&nbsp;km erreicht Ihr die Hühnerstraße/B417, auf der ihr dann links bis Wiesbaden folgt. Hier fahrt ihr direkt nach dem Ortseingangsschild rechts ab. Gleich die zweite Einfahrt rechts führt Euch auf das Gelände *Unter den Eichen 5*.
+Verlasst in Idstein die A3 und biegt direkt zwei mal links ab auf die K707 Richtung Taunusstein/Wiesbaden. Nach 4,5&nbsp;km erreicht Ihr die Hühnerstraße/B417, der ihr dann links bis Wiesbaden folgt. Hier fahrt ihr direkt nach dem Ortseingangsschild rechts ab. Gleich die zweite Einfahrt rechts führt Euch auf das Gelände *Unter den Eichen 5*.
 
 ### Aus Richtung Würzburg:
 
