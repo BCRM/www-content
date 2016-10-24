@@ -20,7 +20,7 @@ Name: {{ registration.name }}
 {% if registration.twitter %}Twitter: {{ registration.twitter }}{% endif %}
 {% if registration.tags %}Tags: {{ registration.tags }}{% endif %}
 
-Daten nicht korrekt? Wende dich bitte an markus@nametacker.com.
+Daten nicht korrekt? Wende dich bitte an anmeldung@barcamp-rheinmain.de.
 
 ####
 {% endif %}
