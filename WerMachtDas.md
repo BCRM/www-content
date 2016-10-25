@@ -24,7 +24,7 @@ Hier stellt sich das Team des BarCamp RheinMain kurz und knapp vor.
 
 ![Chrisula Dingiludi](./Team/img/chrisula.jpg)
 **[Chrisula Dingiludi](https://www.xing.com/profiles/Chrisula_Dingiludi)**  
-Project Manager | [SYZYGY Deutschland GmbH](http://www.syzygy.de)
+Account Managerin | [Cocomore AG](http://www.cocomore.com)
 
 *Ich unterstütze das BarCamp RheinMain,* weil es für mich die perfekte Mischung aus Event, digitaler Welt und Kommunikation ist. Das möchte ich so nah wie möglich miterleben: mit spannenden Themen, neuen Kontakten und reichlichen Austausch im BarCamp-Charakter.
 
