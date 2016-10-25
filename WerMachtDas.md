@@ -110,7 +110,7 @@ Manager bei Sopra Steria GmbH
 
 ![Tanja Tacker](./Team/img/tanja.jpg)
 **[Tanja Tacker](https://www.xing.com/profile/Tanja_Tacker)**  
-Projektmanagerin Mobile Solutions / Schwerpunkt UX bei [DB Systel GmbH](https://www.dbsystel.de/)
+Agile Coaching und Strategie bei [DB Systel GmbH](https://www.dbsystel.de/)
 
 —
 
