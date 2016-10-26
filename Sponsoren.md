@@ -13,6 +13,7 @@ wieder Sponsoren gewinnen konnten, die das BarCamp Konzept unterstützen.
  * [mediaman //](http://mediaman.com/)
  * [NAMICS](http://www.namics.com/)
  * [netz98 – new media gmbh](http://www.netz98.de/)
+ * [Reply - Beratung, Systemintegration und Digital Services](http://www.reply.com/de/)
  * [Scholz & Volkmer](http://www.s-v.de/)
 
 ## Werden Sie Sponsor und unterstützen Sie das BarCamp RheinMain

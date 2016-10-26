@@ -8,4 +8,5 @@
  * [![mediaman //](./img/mediaman.png)](http://mediaman.com/)
  * [![NAMICS](./img/namics.png)](http://www.namics.com/)
  * [![netz98 – new media gmbh](./img/netz98.svg)](http://www.netz98.de/)
+ * [![Reply - Beratung, Systemintegration und Digital Services](./img/reply.svg)](http://www.reply.com/de/)
  * [![Scholz & Volkmer](./img/s-v.png)](http://www.s-v.de/)
