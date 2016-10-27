@@ -2,7 +2,7 @@
 
  * [![Access All Areas – Design in Wiesbaden](./img/aaa.svg)](http://aaa-wiesbaden.de/)
  * [![DB Systel GmbH](./img/db.svg)](http://www.dbsystel.de/dbsystel/karriere/)
- * [![DESIGNERDOCK - Personalberatung für Kommunikation und Marketing](./img/designerdock.svg)](https://www.designerdock.com/fuer-kunden/was-wir-bieten/)
+ * [![DESIGNERDOCK - Personalberatung für Kommunikation und Marketing](./img/designerdock.png)](https://www.designerdock.com/fuer-kunden/was-wir-bieten/)
  * [![DPC | Design Print Cut](./img/dpc.svg)](http://www.design-print-cut.de/)
  * [![giinco](./img/giinco.svg)](http://www.giinco.de/)
  * [![Hochschule RheinMain](./img/hsrm.svg)](https://www.hs-rm.de/)
