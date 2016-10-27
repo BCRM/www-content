@@ -4,6 +4,7 @@
  * [![DB Systel GmbH](./img/dbsystel.png)](http://www.dbsystel.de/dbsystel/karriere/)
  * [![DESIGNERDOCK - Personalberatung für Kommunikation und Marketing](./img/designerdock.png)](https://www.designerdock.com/fuer-kunden/was-wir-bieten/)
  * [![giinco](./img/giinco.png)](http://www.giinco.de/)
+ * [![Hochschule RheinMain](./img/hsrm.svg)](https://www.hs-rm.de/)
  * [![LindenKaffee – Service erleben und genießen.](./img/lindenkaffee.png)](http://www.lindenkaffee.com/)
  * [![mediaman //](./img/mediaman.png)](http://mediaman.com/)
  * [![NAMICS](./img/namics.png)](http://www.namics.com/)
