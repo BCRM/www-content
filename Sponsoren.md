@@ -8,6 +8,7 @@ wieder Sponsoren gewinnen konnten, die das BarCamp Konzept unterstützen.
  * [Access All Areas – Design in Wiesbaden](http://aaa-wiesbaden.de/)
  * [DB Systel GmbH](http://www.dbsystel.de/dbsystel/karriere/)
  * [DESIGNERDOCK – Personalberatung für Kommunikation und Marketing](https://www.designerdock.com/fuer-kunden/was-wir-bieten/)
+ * [DPC | Design Print Cut](http://www.design-print-cut.de/)
  * [giinco](http://www.giinco.de/)
  * [LindenKaffee – Service erleben und genießen.](http://www.lindenkaffee.com/)
  * [mediaman //](http://mediaman.com/)
