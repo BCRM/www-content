@@ -6,6 +6,7 @@
  * [![DPC | Design Print Cut](./img/dpc.svg)](http://www.design-print-cut.de/)
  * [![giinco](./img/giinco.svg)](http://www.giinco.de/)
  * [![Hochschule RheinMain](./img/hsrm.svg)](https://www.hs-rm.de/)
+ * [![Höflinger – Technology meets experience](./img/hoeflinger.svg)](http://www.hoeflinger-technology.com/)
  * [![Protect Human Rights](./img/menschenrechte.svg)](http://www.un.org/en/sections/what-we-do/protect-human-rights/index.html)
  * [![LindenKaffee – Service erleben und genießen.](./img/lindenkaffee.svg)](http://www.lindenkaffee.com/)
  * [![mediaman //](./img/mediaman.svg)](http://mediaman.com/)
