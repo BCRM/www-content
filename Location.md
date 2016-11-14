@@ -1,8 +1,7 @@
 # Veranstaltungsort
 
 Das BarCamp RheinMain 2016 findet am 19./20. November 2016 statt – und zwar 
-and der [Hochschule RheinMain](http://www.hs-rm.de/de/service/hochschul-und-landesbibliothek/ueber-uns/standorte/standort-unter-den-eichen/)
-am MedienCampus *Unter den Eichen*.
+and der [Hochschule RheinMain](http://www.hs-rm.de/de/service/hochschul-und-landesbibliothek/ueber-uns/standorte/standort-unter-den-eichen/). Der Studiengang Kommunikationsdesign ist unser Gastgeber am MedienCampus *Unter den Eichen*.
 
 Wir starten am 19. November um 9.30 Uhr und am 20. November um ca. 16.00 Uhr endet das BarCamp. 
 
