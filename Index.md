@@ -9,6 +9,8 @@ Auch eine Themenvorgabe wird bewusst vermieden, fachfremde Teilnehmer und Vortr�
 Die Organisatoren stellen lediglich Termin und Räumlichkeiten zur Verfügung, um alles andere kümmern
 sich die Teilnehmer selbst.
 
+Dieses Jahr sind wir mit Unterstützung des Studiengangs Kommunikationsdesign an der Hochschule RheinMain in Wiesbaden zu Gast.
+
 @order=1
 @title=Was ist das?
 @slider=Index
