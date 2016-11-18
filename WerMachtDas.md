@@ -83,6 +83,7 @@ Freiberufler / [Martin Kraft // Interaktionsdesign](http://www.martinkraft.com/)
 *Ich unterstütze das BarCamp RheinMain,* weil ich helfen möchte, die Ideen des freien Netzes ins „echte Leben“ zu tragen.
 
 *Twitter:* [@martin_kraft](https://www.twitter.com/martin_kraft)  
+*Wikipedia:* [Martin Kraft](https://de.wikipedia.org/wiki/Benutzer:Martin_Kraft)  
 *Tags:* #Design #Netzpolitik #Wikipedia
 
 ----
