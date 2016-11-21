@@ -1,6 +1,8 @@
-# Inhalte für [BarCamp-RheinMain.de](http://www.barcamp-rheinmain.de)
+# Inhalte für die auf Symfony2 basierende Version der Website, die bis 2016 im Einsatz war
 
-In diesem Repository finden sich die Inhalte, die unter [BarCamp-RheinMain.de](http://www.barcamp-rheinmain.de) angezeigt werden. Die einzelnen Inhalts-Seite der Website liegen dabei als Dateien im [Markdown-Format](http://daringfireball.net/projects/markdown/) vor, aus 
+**Die Inhalte für die aktuelle Website finden sich in [diesem Repository](https://github.com/BCRM/static).**
+
+In diesem Repository finden sich die Inhalte, die mit [der auf Symfony2 basierenden Version der Website](https://github.com/BCRM/www) angezeigt werden. Die einzelnen Inhalts-Seite der Website liegen dabei als Dateien im [Markdown-Format](http://daringfireball.net/projects/markdown/) vor, aus 
 denen dann das HTML zur Darstellung auf der Website erzeugt wird. In diesem Repository finden sich auch die Bilder zu den Inhalten, z.B. für den [Slider auf der Startseite](/Slider/Index.md).
 
 ## Inhalte bearbeiten
