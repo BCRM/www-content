@@ -90,7 +90,7 @@ Freiberufler / [Martin Kraft // Interaktionsdesign](http://www.martinkraft.com/)
 
 ![Helge Richter](./Team/img/helge.jpg)
 **[Helge Richter](https://www.xing.com/profile/Helge_Richter)**  
-Manager bei Sopra Steria GmbH
+Manager bei Sopra Steria Consulting
 
 *Ich unterstütze das BarCamp RheinMain,* weil ich es toll finde, wenn Menschen zusammenkommen um sich selbst und andere weiter zu bringen!
 
